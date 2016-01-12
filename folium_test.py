@@ -62,6 +62,7 @@ def kml_to_map(coords, kml_file):
     map_osm = folium.Map(location=coords)    
     
     segment_df = process_kml(k)
+    segment_df.to_csv('greenways.csv')
     
     draw_lines(map_osm, segment_df)
 
