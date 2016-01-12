@@ -50,16 +50,16 @@
 
 <body>
 
-   <div class="folium-map" id="folium_fa7e3592943341d28a59d8a077315af3" style="width: 100%; height: 100%"></div>
+   <div class="folium-map" id="folium_afa06c0afb2a4a198c28b63ede4299fb" style="width: 100%; height: 100%"></div>
 
    <script>
 
       
 
-      var base_tile = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      var base_tile = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
           maxZoom: 18,
           minZoom: 1,
-          attribution: 'Map data (c) <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+          attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
       });
 
       var baseLayer = {
@@ -94,7 +94,7 @@
       /*
       Creates the map and adds the selected layers
       */
-      var map = L.map('folium_fa7e3592943341d28a59d8a077315af3', {
+      var map = L.map('folium_afa06c0afb2a4a198c28b63ede4299fb', {
                                        center:[47.6131746, -122.4878834],
                                        zoom: 10,
                                        maxBounds: bounds,
