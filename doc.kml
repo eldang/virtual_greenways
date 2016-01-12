@@ -1,0 +1,4189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Combined Neighborhood Greenways Maps</name>
+		<description><![CDATA[This is a combination of maps (not all of them) from this page:<br>http://seattlegreenways.org/neighborhoods/]]></description>
+		<Folder>
+			<name>NE Greenways</name>
+			<Placemark>
+				<name>39th Ave Greenway: In Progress</name>
+				<description><![CDATA[N-S connector between the Burke Gilman trail, Thornton Ck School, residential homes, etc.<br><br>Funded by Children's Hospital, currently planned to be completed by fall 2012.]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.285683,47.666649,0.0 -122.285599,47.666759,0.0 -122.28572100000001,47.66687,0.0 -122.285812,47.675781,0.0 -122.28594999999999,47.675789,0.0 -122.28603399999999,47.679409,0.0 -122.28607899999999,47.679508,0.0 -122.28614800000001,47.68124,0.0 -122.28639999999999,47.681259,0.0 -122.28643800000002,47.683048,0.0 -122.28624000000002,47.683048,0.0 -122.28634600000001,47.686481,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 68th St Greenway</name>
+				<description><![CDATA[E-W connector; connect 39th Ave greenway with 27th Ave greenway, connect to Seattle Public Library NE branch.  Hilly, but pedestrians (and some cyclists) already make heavy use of it.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28620100000002,47.67762,0.0 -122.298172,47.677589,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 62nd Ave Greenway</name>
+				<description><![CDATA[E-W connector, Ravenna Blvd/Green Lake area to Ravenna Park and points east of the park.  Connects to the 20th Ave NE bridge over Ravenna Park as well.  P1 route extends as far as bridges over Ravenna Park (work is underway to get funding to make those bridges ADA-compliant).]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.305161,47.672661,0.0 -122.30596900000002,47.67263,0.0 -122.30648,47.672649,0.0 -122.306557,47.672649,0.0 -122.309776,47.673809,0.0 -122.31041000000002,47.673969,0.0 -122.31192000000001,47.673981,0.0 -122.31432299999999,47.67334,0.0 -122.316872,47.67334,0.0 -122.319267,47.67334,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Brooklyn Ave Greenway</name>
+				<description><![CDATA[N-S connector, connects U-District & Ravenna Park to Roosevelt High & Light Rail.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.315193,47.667671,0.0 -122.31517800000002,47.671261,0.0 -122.314293,47.67128,0.0 -122.314171,47.671249,0.0 -122.31417800000001,47.67215,0.0 -122.314339,47.673759,0.0 -122.314339,47.67654000000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>27th Ave Greenway</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.2985,47.666382,0.0 -122.298538,47.675781,0.0 -122.29840099999998,47.675781,0.0 -122.298531,47.680691,0.0 -122.298843,47.680698,0.0 -122.299156,47.680759,0.0 -122.29962900000001,47.68096200000001,0.0 -122.299698,47.683891,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>36th Ave Greenway</name>
+				<description><![CDATA[Connects other greenways with Concordia School.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.289268,47.677872,0.0 -122.289337,47.680351,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>45th Ave Greenway</name>
+				<description><![CDATA[N-S connector between the Burke Gilman trail and View Ridge Park, View Ridge Elementary, and Hawthorne Hills residential homes.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.27948800000001,47.668652,0.0 -122.27944900000001,47.66946,0.0 -122.27953300000001,47.675789,0.0 -122.279846,47.686371,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>44th Ave Greenway</name>
+				<description><![CDATA[Connects the Burke Gilman Trail, Seattle Children's Hospital, Laurelhurst Elementary, and Laurelhurst Playfield.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.281326,47.666759,0.0 -122.281189,47.666969,0.0 -122.280777,47.666779,0.0 -122.28035000000001,47.666592,0.0 -122.280121,47.666439,0.0 -122.280052,47.66626,0.0 -122.280083,47.66552,0.0 -122.28044899999999,47.665131,0.0 -122.28047900000001,47.665039,0.0 -122.280457,47.663139,0.0 -122.280411,47.663109,0.0 -122.279381,47.663101,0.0 -122.279358,47.661419,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>50th St Greenway</name>
+				<description><![CDATA[Connect the Burke Gilman trail, Ronald McDonald House, and Children's Hospital.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.285858,47.664902,0.0 -122.28315000000002,47.664879,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>80th St Greenway</name>
+				<description><![CDATA[E-W connector, connecting Thornton Creek Elementary with various other greenways.<br><br>Already marked as a bicycle boulevard.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.27993000000001,47.686649,0.0 -122.284248,47.686649,0.0 -122.286339,47.686691,0.0 -122.29489900000002,47.686661,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>62nd St Greenway</name>
+				<description><![CDATA[E-W connector.]]></description>
+				<styleUrl>#line-3366FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.298172,47.673969,0.0 -122.286407,47.673988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>32nd Ave Greenway</name>
+				<styleUrl>#line-3366FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29477700000001,47.683331,0.0 -122.294937,47.687401,0.0 -122.29493000000001,47.688412,0.0 -122.29499800000002,47.68882,0.0 -122.295036,47.690231,0.0 -122.293404,47.690231,0.0 -122.293373,47.693932,0.0 -122.29326600000002,47.696571,0.0 -122.29326600000002,47.69841,0.0 -122.29338100000001,47.700218,0.0 -122.29338100000001,47.70113,0.0 -122.29412800000001,47.70114900000001,0.0 -122.29409,47.70459,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>36th Ave Greenway</name>
+				<description><![CDATA[Runs next to the Wedgwood business district.]]></description>
+				<styleUrl>#line-3366FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.289421,47.683331,0.0 -122.289574,47.687832,0.0 -122.289452,47.688389,0.0 -122.289337,47.688438,0.0 -122.28936000000002,47.688492,0.0 -122.28943599999998,47.688511,0.0 -122.289452,47.68935,0.0 -122.289268,47.689999,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Squiggly Greenway</name>
+				<styleUrl>#line-3366FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.26899,47.683102,0.0 -122.268951,47.68338,0.0 -122.26879100000001,47.683498,0.0 -122.26863100000001,47.68355900000001,0.0 -122.268387,47.68355900000001,0.0 -122.268143,47.683441,0.0 -122.26802799999999,47.683331,0.0 -122.268044,47.682961,0.0 -122.268127,47.68272,0.0 -122.26801300000001,47.682308,0.0 -122.26798200000002,47.68063,0.0 -122.267906,47.68055,0.0 -122.267609,47.680462,0.0 -122.26702899999998,47.681122,0.0 -122.267021,47.682621,0.0 -122.26696,47.6828,0.0 -122.266724,47.682949,0.0 -122.26650200000002,47.682968,0.0 -122.266342,47.682941,0.0 -122.266151,47.682861,0.0 -122.26606,47.68277,0.0 -122.26576199999998,47.680988,0.0 -122.265961,47.67966100000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>32nd Ave Greenway</name>
+				<description><![CDATA[Connects 55th St business district with northern points and Eckstein, Bryant Elementary.]]></description>
+				<styleUrl>#line-3366FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.291443,47.668709,0.0 -122.29141999999999,47.67215,0.0 -122.29219799999998,47.67215,0.0 -122.29219799999998,47.673969,0.0 -122.29322799999998,47.673969,0.0 -122.29325100000001,47.675781,0.0 -122.292992,47.675781,0.0 -122.29306799999999,47.679409,0.0 -122.29251900000001,47.679409,0.0 -122.29260300000001,47.682751,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>58th St Greenway</name>
+				<styleUrl>#line-3366FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30390900000002,47.669571000000005,0.0 -122.30387100000002,47.669628,0.0 -122.30390900000002,47.66996,0.0 -122.30412300000002,47.670109,0.0 -122.30605300000002,47.670589,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>68th St Greenway extension</name>
+				<description><![CDATA[Continue 68th St greenway all the way to the 45th Ave greenway]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.285561,47.677639,0.0 -122.27993800000002,47.677639,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>24th Ave Greenway</name>
+				<description><![CDATA[Connection to University Prep.]]></description>
+				<styleUrl>#line-3366FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.301712,47.677959,0.0 -122.301918,47.686668,0.0 -122.301224,47.68668000000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>68th St greenway extension #2</name>
+				<description><![CDATA[Continue the 68th St greenway all the way to the Light Rail station.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29882000000002,47.677639,0.0 -122.31143199999998,47.677639,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>60th St Greenway</name>
+				<description><![CDATA[Connect the 62nd St greenway with things east of the park]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.302711,47.6721,0.0 -122.30172,47.67207,0.0 -122.30152099999998,47.67215,0.0 -122.29869100000002,47.67215,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>20th Ave Greenway</name>
+				<styleUrl>#line-3366FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30649599999998,47.66946,0.0 -122.30645800000002,47.67556,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>70th St cycletrack</name>
+				<styleUrl>#line-3366FF-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.26576199999998,47.67944,0.0 -122.26563299999998,47.679371,0.0 -122.26371000000002,47.679359000000005,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>75th St cycletrack #1</name>
+				<description><![CDATA[In front of Eckstein.]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29453300000002,47.683048,0.0 -122.29271700000001,47.683048,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ravenna Park Bridge</name>
+				<description><![CDATA[Currently these are two bridges over Ravenna Park with stairs on each.  Bridges need to be redone to be ADA compliant, and possibly also wider to accomodate higher foot and cycle traffic.  Will need to be implemented by Seattle Parks.]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.303879,47.672699,0.0 -122.303284,47.672611,0.0 -122.30293999999999,47.67203500000001,0.0 -122.30289499999999,47.672005,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>75th St cycletrack #2</name>
+				<description><![CDATA[E-W connector between greenways and Magnuson Park.]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28907799999999,47.683048,0.0 -122.27874000000001,47.683022,0.0 -122.27523,47.683029,0.0 -122.27451300000001,47.68306,0.0 -122.27372000000001,47.683029,0.0 -122.26937900000001,47.683022,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>15th Ave cycletrack #1</name>
+				<description><![CDATA[Connect 68th St Greenway with Light Rail Station.]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31197400000002,47.67649800000001,0.0 -122.311989,47.677670000000006,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 62nd St &amp; 15th Ave NE</name>
+				<description><![CDATA[Arterial crossing lacks ped/cyclist support.  Suggest a crosswalk + diverter so that cars on 15th Ave aren't tempted to cut through on 62nd St.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.311905,47.674057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 68th St &amp; 35th Ave NE</name>
+				<description><![CDATA[35th Ave arterial crossing currently has a crosswalk that cars tend not to yield at.  Seattle Public Library is on the corner, which means many families/children cross this street.  Crossing treatment should keep that in mind; pedestrian island, possibly a diverter, possibly a light + walk/ride signal necessary.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29032099999999,47.677555,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 62nd St &amp; 12th Ave NE</name>
+				<description><![CDATA[Another major arterial with no pedestrian/cyclist crossing treatments.  This is a particularly busy area (near I-5 & U-District), so treatment here is important.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.315681,47.673363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 62nd St &amp; Roosevelt Way NE</name>
+				<description><![CDATA[Another major arterial with no pedestrian/cyclist crossing treatment.  This is a particularly busy area (near I-5 & U-District), so treatment here is important.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.317398,47.673393,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lake City Greenways</name>
+			<Placemark>
+				<name>P1 38th Ave Greenway</name>
+				<description><![CDATA[South segment of proposed Cedar Park Greenway]]></description>
+				<styleUrl>#line-CC0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28733999999999,47.71919,0.0 -122.28729,47.71551,0.0 -122.28722,47.71371,0.0 -122.28791000000001,47.71374,0.0 -122.2881,47.70831,0.0 -122.28671,47.70833,0.0 -122.2868,47.70479000000001,0.0 -122.286801,47.704744,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-1 37th Ave Greenway</name>
+				<description><![CDATA[North segment of the proposed Cedar Park Greenway]]></description>
+				<styleUrl>#line-FFFF00-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28838999999999,47.73375,0.0 -122.288196,47.726399,0.0 -122.288636,47.726414,0.0 -122.288539,47.719305000000006,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Needed Crossing Treatment</name>
+				<description><![CDATA[Safe crossing will be needed across NE 125th to connect the 37th Ave and 38th Ave segments of the Cedar Park Greenway]]></description>
+				<styleUrl>#line-CC0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.287359,47.71924,0.0 -122.28854999999999,47.719247,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 4</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29973,47.71205,0.0 -122.29475299999999,47.712027000000006,0.0 -122.29067800000001,47.711979,0.0 -122.28800299999999,47.711949,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 27th Ave Greenway</name>
+				<styleUrl>#line-FFFF00-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.299161,47.730116,0.0 -122.29918000000002,47.73014,0.0 -122.29908,47.72111,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Lake City to Olympic Hills</name>
+				<description><![CDATA[Maybe a lane near Freddies?]]></description>
+				<styleUrl>#line-6600CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29096900000002,47.72263900000001,0.0 -122.29318,47.72289,0.0 -122.30725,47.72298,0.0 -122.30786,47.72307,0.0 -122.30829000000001,47.72323,0.0 -122.30908999999998,47.72366,0.0 -122.30907,47.7266,0.0 -122.30994,47.72662,0.0 -122.31005999999998,47.73391,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 12</name>
+				<styleUrl>#line-6633FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28860000000002,47.72298,0.0 -122.29081999999998,47.72297,0.0 -122.29083,47.72274,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>33rd Ave Greenway</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.292767,47.71737,0.0 -122.29271300000002,47.720207,0.0 -122.29208000000001,47.72248,0.0 -122.29198,47.72277,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Meadowbrook to the Burke</name>
+				<styleUrl>#line-FFFF00-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28673999999998,47.70476,0.0 -122.28170999999999,47.7046,0.0 -122.28076100000001,47.704181,0.0 -122.280171,47.703581,0.0 -122.28005300000001,47.701825,0.0 -122.280042,47.700108,0.0 -122.28001000000002,47.696664,0.0 -122.278529,47.696549,0.0 -122.278036,47.696188,0.0 -122.277896,47.696103,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>32nd Ave Greenway</name>
+				<description><![CDATA[Little Brook]]></description>
+				<styleUrl>#line-FFFF00-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29376,47.73369,0.0 -122.293847,47.730156,0.0 -122.293694,47.730157,0.0 -122.29358,47.72656,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>125th and 37th Crossing</name>
+				<description><![CDATA[Need a treatment, Maybe:<br><br>1) Crosswalk<br>2) Island<br>3) Cycletrack for half a block then crosswalk<br>4]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28791699999998,47.719232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>How did the bike cross the road?</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29526600000001,47.719009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 7</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.292697,47.71928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 8</name>
+				<description><![CDATA[Need for a crosswalk]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29135,47.717348,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 9</name>
+				<description><![CDATA[This would be a good place for a stop light.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28391000000002,47.717416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Descriptive intersection title goes here.</name>
+				<description><![CDATA[This placemark can use an explanation of why it's important and what is the issue that needs to be solved.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.299612,47.712086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Need some sort of crossing to 100th</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.302103,47.702017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 12</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.280192,47.697372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 13</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28759500000001,47.708274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 14</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28798200000001,47.711956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 15</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.299032,47.722899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 16</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29877500000002,47.719319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 17</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29313100000002,47.722885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Climbable route from the Burke</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.283964,47.717375,0.0 -122.28386,47.71556,0.0 -122.28384,47.71376,0.0 -122.28266,47.71111,0.0 -122.28146,47.70859,0.0 -122.27892,47.70914,0.0 -122.27677999999999,47.7046,0.0 -122.27646,47.70457,0.0 -122.27646,47.70111,0.0 -122.27357999999998,47.70112,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Curb Bulb?</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.280171,47.708878,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Uncontrolled intersection</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28315400000001,47.712172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>meadowbrook to Victory Heights</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30281,47.7012,0.0 -122.30585,47.70118,0.0 -122.30582000000001,47.70208,0.0 -122.30698,47.70211,0.0 -122.30703000000001,47.70483,0.0 -122.30723000000002,47.70497,0.0 -122.30737,47.70588,0.0 -122.30809,47.70645,0.0 -122.30812,47.70665000000001,0.0 -122.31244000000001,47.70668,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Uncontrolled interesection</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.283835,47.715611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Line 17</name>
+				<styleUrl>#line-0000FF-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30699300000002,47.702106,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 23</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31241899999999,47.706675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nice bulbs and x-walk</name>
+				<description><![CDATA[But something more?]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29086,47.722746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Line 19</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30830599999999,47.723188,0.0 -122.30830599999999,47.723217,0.0 -122.309357,47.721787,0.0 -122.309078,47.721398,0.0 -122.309099,47.71943400000001,0.0 -122.30998,47.71937,0.0 -122.30994,47.71853,0.0 -122.31226000000001,47.71466,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 27</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.309568,47.719406,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 28</name>
+				<styleUrl>#icon-111-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.303565,47.709151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack on Pinehurst</name>
+				<description><![CDATA[Need something to get safely into Northgate Business District.<br><br>It seems like this stretch, going from 2 to 1 lane, with the same capacity, begs to be that corridor with some separated infrastructure.]]></description>
+				<styleUrl>#line-000099-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.312267,47.714636,0.0 -122.31269,47.71401,0.0 -122.31701000000001,47.7109,0.0 -122.31772,47.7103,0.0 -122.31784,47.70998,0.0 -122.31784999999999,47.70861,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 21</name>
+				<styleUrl>#line-FF0000-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.299195,47.721095,0.0 -122.30186200000001,47.721118,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 24</name>
+				<styleUrl>#line-FF0000-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.301855,47.721022,0.0 -122.30181100000001,47.720155,0.0 -122.301876,47.719302,0.0 -122.301876,47.719297,0.0 -122.301876,47.719307,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>25th crossing 15th</name>
+				<description><![CDATA[Pedestrian Activated Signal with Crosswalk.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.301867,47.719324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Line 21</name>
+				<description><![CDATA[SDOT deviation to hit the lights]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29918000000002,47.73025,0.0 -122.30194000000002,47.73026,0.0 -122.30196700000002,47.733902,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 21</name>
+				<styleUrl>#line-FFFF00-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29128,47.71732,0.0 -122.283078,47.717392,0.0 -122.282381,47.717233,0.0 -122.280375,47.717601,0.0 -122.27932299999999,47.716886,0.0 -122.2793,47.71586,0.0 -122.27891,47.7156,0.0 -122.27811000000001,47.71586,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>To and from LC Core</name>
+				<description><![CDATA[Route from SE to Lake City Urban Village]]></description>
+				<styleUrl>#line-6600CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29145899999999,47.717341,0.0 -122.29521500000001,47.717392,0.0 -122.29513900000002,47.718843,0.0 -122.29527899999998,47.718965,0.0 -122.29527899999998,47.718944,0.0 -122.295268,47.718936,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 23</name>
+				<styleUrl>#line-FFFF00-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28695499999999,47.704751,0.0 -122.29744800000002,47.704823,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Roundabout</name>
+				<description><![CDATA[This needs stop signs.  History of fatal accidents.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.288572,47.723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New School intersection</name>
+				<description><![CDATA[This needs a 3-way stop.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28873300000001,47.726349,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Wallingford Greenways</name>
+			<Placemark>
+				<name>P-1 1st Ave Greenway</name>
+				<description><![CDATA[Top priority greenway, connecting zoo at the south with Carkeek Park at the north. We would like to see the 57th St to 85th St "southern" segment completed first, with second priority going to the segment from 85th St north to Carkeek Park.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36333,47.70288,0.0 -122.36333,47.70275,0.0 -122.36479999999999,47.70197,0.0 -122.36428999999998,47.70145,0.0 -122.36428999999998,47.701,0.0 -122.36414,47.70086,0.0 -122.36373000000002,47.70114,0.0 -122.36343,47.70091,0.0 -122.3633,47.69965,0.0 -122.358052,47.699654,0.0 -122.35795,47.6818,0.0 -122.35737,47.6818,0.0 -122.35738000000002,47.68075,0.0 -122.35638000000002,47.68074,0.0 -122.35636000000001,47.67235,0.0 -122.3554,47.67236,0.0 -122.35532000000002,47.67041,0.0 -122.35314,47.67051,0.0 -122.35527999999998,47.67044,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-1 80th St and 1st Ave</name>
+				<description><![CDATA[There is an existing unsignalized crosswalk at the west crossing of 80th, which will help, but this intersection could still use improvement.]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.35804100000001,47.686857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-1 65th St and Palatine Ave N</name>
+				<description><![CDATA[This is perhaps the most challenging intersection to address, but also one of the least safe crossings currently. 65th is steep, encouraging speeding and limiting sight lines, and there is no shoulder space along the lanes. We would really like to see some improvement made here for a safer crossing in conjunction with a greenway down 1st/Palatine.]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.356389,47.67593500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-1 72nd St and 1st Ave NW</name>
+				<description><![CDATA[Traffic Circle with enhanced calming -- speed bumps before greenway crossing; Signage to indicate greenway crossing. We would strongly prefer to see traffic circles used for calming and creating safer intersections rather than stop signs for cross traffic, unless the stop signs are implemented consistently throughout each greenway across the City. People are used to traffic circles but not stop signs at residential intersections, and compliance might not be good (and thus unsafe) with the use of stop signs.]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.35738600000002,47.680741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62nd St and Palatine Ave</name>
+				<description><![CDATA[Traffic calming circle or mural?]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.356389,47.674014,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6th Ave NW</name>
+				<description><![CDATA[future north-south route that could connect Carkeek to Burke-Gilman Trail. Serves areas between arterial avenues 3rd and 8th.]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36402199999999,47.65845,0.0 -122.363958,47.665012,0.0 -122.363207,47.664997,0.0 -122.36327100000001,47.668668,0.0 -122.362799,47.668653,0.0 -122.36286299999999,47.669462,0.0 -122.36400100000002,47.669448,0.0 -122.363958,47.67595,0.0 -122.36342700000002,47.675964,0.0 -122.36346400000001,47.679576,0.0 -122.36331900000002,47.679533000000006,0.0 -122.36329299999998,47.694238,0.0 -122.363341,47.696202,0.0 -122.36331900000002,47.696101,0.0 -122.36331900000002,47.69657,0.0 -122.36333,47.69704,0.0 -122.363341,47.696953,0.0 -122.36335200000002,47.700867,0.0 -122.36329800000001,47.697328,0.0 -122.36333,47.696707,0.0 -122.36331900000002,47.695899,0.0 -122.363276,47.694209,0.0 -122.363341,47.696361,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 NW 73rd St</name>
+				<description><![CDATA[Possible connection to Ballard Greenways if this is where the Ballard one is located.]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36592,47.68176,0.0 -122.35804100000001,47.681801,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-1 90/92 St Crosstown Greenway</name>
+				<description><![CDATA[Priority east-west connection north of 85th to connect Greenwood with Crown Hill and Northgate]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36598000000001,47.69428,0.0 -122.35005,47.69419,0.0 -122.35001000000001,47.69566,0.0 -122.34188,47.69563,0.0 -122.34191,47.69779,0.0 -122.33964,47.69777,0.0 -122.33964,47.69597,0.0 -122.331262,47.695949,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Aurora Avenue N and N 92nd Street</name>
+				<description><![CDATA[New sensor-activated signal for bikes and pedestrians. Mandatory traffic diversion onto Aurora -- no vehicle cross traffic on 92nd]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34458700000002,47.695696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>83rd St</name>
+				<description><![CDATA[83rd street will provide a good low-stress connection from Greenwood to Ballard between 80th and 85th. It is also a good way across Greenwood Ave from Aurora/Greenlake to the north end of Ballard.]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33997000000001,47.68477,0.0 -122.3499,47.68476,0.0 -122.3499,47.68908,0.0 -122.36606600000002,47.689053,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Dayton Ave N</name>
+				<description><![CDATA[Lowest priority. Connects the zoo to the north end of Phinney on east side of ridge. Lower stress than Greenwood Ave, but better grades to connect to zoo than Fremont Ave.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.352827,47.671731,0.0 -122.35287,47.675401,0.0 -122.352419,47.67537200000001,0.0 -122.35248300000002,47.676123,0.0 -122.35271899999998,47.676094,0.0 -122.35259100000002,47.682422,0.0 -122.35239700000001,47.683274,0.0 -122.352355,47.683997000000005,0.0 -122.352376,47.685586,0.0 -122.352569,47.686568,0.0 -122.349865,47.686582,0.0 -122.34984400000002,47.686554,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>77th St</name>
+				<description><![CDATA[Connection to Ballard greenway if that is where the greenway there is located. 77th gets very steep east of Greenwood so we didn't connect it across to Fremont Ave, but that could possibly be done.]]></description>
+				<styleUrl>#line-CC33CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.366731,47.685080000000006,0.0 -122.365959,47.685095,0.0 -122.36598000000001,47.684719,0.0 -122.35806200000002,47.684791,0.0 -122.358019,47.684777000000004,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>87th Ave N</name>
+				<description><![CDATA[Alternate connection from 1st to 90th across Greenwood that has a better (more frequent) signal and less steep street on the block east of Greenwood.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35791,47.69243,0.0 -122.3499,47.69241,0.0 -122.34993,47.69413,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Interurban extension</name>
+				<description><![CDATA[Extension of the Interurban trail to the south from existing trail to 90th, using SCL easement/ROW.]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3513,47.69422,0.0 -122.35117,47.69587,0.0 -122.35123,47.70154000000001,0.0 -122.35073000000001,47.703450000000004,0.0 -122.35076999999998,47.70508,0.0 -122.35013000000001,47.70509,0.0 -122.350155,47.708722,0.0 -122.34966200000001,47.708729,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>56th St and 57th St</name>
+				<description><![CDATA[East-west connection from Ballard greenway up to zoo, connecting with 1st Ave Phinney greenway and other future Phinney-Greenwood greenways (e.g. 6th Ave)]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35323,47.67053,0.0 -122.35535999999999,47.67041,0.0 -122.35648999999998,47.67028,0.0 -122.3578,47.6695,0.0 -122.35950000000001,47.66972,0.0 -122.36064,47.66941,0.0 -122.36394199999998,47.669433,0.0 -122.363963,47.670907,0.0 -122.366087,47.670936,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>85th St and 1st Ave NW</name>
+				<description><![CDATA[There is an existing signal at this intersection, but minor improvements such as a curbside signal activation button or markings to indicate where a bicycle can activate the signal would be helpful, as well as being a good location for signage. Perhaps improvements could be coordinated with the Fred Meyer remodel.]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.358019,47.690641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Woodland Park Ave N</name>
+				<description><![CDATA[We'd be interested in seeing this route through Wallingford and up through Woodland Park created to connect Greenwood-Phinney with the Burke-Gilman Trail.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34673600000002,47.673884,0.0 -122.346822,47.673393,0.0 -122.34673600000002,47.671659,0.0 -122.34634999999999,47.671413,0.0 -122.34634999999999,47.670589,0.0 -122.346565,47.670488,0.0 -122.346178,47.669289,0.0 -122.34544899999999,47.667497,0.0 -122.345535,47.666717,0.0 -122.345685,47.666052,0.0 -122.345363,47.665662,0.0 -122.34441900000002,47.665243,0.0 -122.344655,47.654071,0.0 -122.343861,47.653637,0.0 -122.34414000000001,47.648593,0.0 -122.344075,47.648578,0.0 -122.34409700000002,47.648578,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Greenlake Way and Woodland Park Ave N</name>
+				<description><![CDATA[This crossing needs some improvement to make is safer for cyclists if this route becomes a greenway.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.344544,47.662887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 46th St and Woodland Park Ave</name>
+				<description><![CDATA[This crossing needs some improvement to make is safer for cyclists if this route becomes a greenway.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.344544,47.662121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bridge Way N and Woodland Park Ave N</name>
+				<description><![CDATA[This crossing needs some improvement to make is safer for cyclists if this route becomes a greenway.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.344168,47.653717,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dayton</name>
+				<description><![CDATA[North-South greenway connection across 85th.]]></description>
+				<styleUrl>#line-CC66CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35252600000001,47.686582,0.0 -122.35265,47.69416,0.0 -122.35261000000001,47.69412,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Alternate n/s route under consideration</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35019800000002,47.708715,0.0 -122.35275100000001,47.7087,0.0 -122.352773,47.708722,0.0 -122.35279000000001,47.70872,0.0 -122.35257999999999,47.69413,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>100th to Community College and Northgate Transit Station</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35808000000002,47.69971,0.0 -122.35810499999998,47.701459,0.0 -122.34446,47.70138,0.0 -122.33515000000001,47.70138,0.0 -122.33332,47.70141000000001,0.0 -122.33103,47.70005,0.0 -122.33116000000001,47.69728,0.0 -122.33125000000001,47.69682,0.0 -122.33103,47.69595000000001,0.0 -122.32854,47.69598,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>e/w route undet consideration to transit station aligning with new brige across I-5</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.358057,47.701477,0.0 -122.35806800000002,47.702202,0.0 -122.35529,47.70217,0.0 -122.35531,47.702921,0.0 -122.34396000000001,47.7028,0.0 -122.34392,47.70297000000001,0.0 -122.34387000000001,47.7028,0.0 -122.34349,47.70314,0.0 -122.34310000000002,47.7032,0.0 -122.34210999999999,47.70311,0.0 -122.34078000000001,47.70323,0.0 -122.34387000000001,47.70314,0.0 -122.34062999999999,47.70323,0.0 -122.33375,47.70319,0.0 -122.33391000000002,47.70317,0.0 -122.32846000000002,47.70317,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>95th/97th westbound route</name>
+				<styleUrl>#line-FF6600-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.331222,47.697776,0.0 -122.33761600000001,47.697805,0.0 -122.337659,47.699567,0.0 -122.338732,47.699668,0.0 -122.33967599999998,47.699625,0.0 -122.341886,47.69961,0.0 -122.34195100000001,47.701386,0.0 -122.341929,47.701358,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Wetland -- Bog to Creek Trail</name>
+				<styleUrl>#icon-143-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.357644,47.692176,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bog to Creek Trail</name>
+				<styleUrl>#line-FF6600-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35766000000001,47.69219,0.0 -122.35789,47.69251,0.0 -122.35804100000001,47.697834,0.0 -122.36327,47.69783,0.0 -122.36333,47.70098,0.0 -122.3637,47.7012,0.0 -122.36415,47.70097,0.0 -122.36412,47.70147,0.0 -122.36466,47.701890000000006,0.0 -122.36333,47.70261,0.0 -122.36337000000002,47.7029,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bog to Creek Trail</name>
+				<styleUrl>#icon-143-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36336800000001,47.70296900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>cycle-trak to 102nd</name>
+				<styleUrl>#icon-105-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.35529400000001,47.702101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ramp to cross aurora on ped bridge</name>
+				<styleUrl>#icon-105-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.344823,47.702715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>i-5 ped/bike bridge</name>
+				<styleUrl>#icon-105-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33006,47.702975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Extension  to Fremont "wiggle"</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35532400000001,47.670358,0.0 -122.35544199999998,47.661504,0.0 -122.355927,47.661485,0.0 -122.35604500000001,47.661442,0.0 -122.356083,47.661215,0.0 -122.356083,47.660904,0.0 -122.356064,47.660286,0.0 -122.356107,47.659621,0.0 -122.35719100000001,47.659621,0.0 -122.35721200000002,47.659614,0.0 -122.35721200000002,47.659599,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>New signal sensor activated</name>
+				<description><![CDATA[Sensor activated flashing beacon when bike or pedestrian is approaching]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.35541000000002,47.66217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection improvement</name>
+				<description><![CDATA[refuge island]]></description>
+				<styleUrl>#icon-161</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36048700000002,47.694166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>improve existing intersection for child safety.</name>
+				<styleUrl>#icon-161-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.355337,47.694281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alt (preferred) route along Wilson-Pacific property</name>
+				<styleUrl>#line-FF6666-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34176700000002,47.695978,0.0 -122.339761,47.69599300000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Completed Greenway</name>
+				<description><![CDATA[This segment of the Wallingford Greenway was built in 2012 and funded through a Neighborhood Projects Fund grant applied for in 2009 and approved in 2010.]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32513,47.660210000000006,0.0 -122.335,47.66018,0.0 -122.33508,47.65917,0.0 -122.34083,47.65908000000001,0.0 -122.34347100000001,47.659188,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Tangletown connector</name>
+				<description><![CDATA[North to South Wallingford connector. Recommended Sunnyside Ave N Ped/bike Toucan crossings lights at N 40th St, 45th St. (existing) & 50th St. (existing).]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33736000000002,47.67203,0.0 -122.33592900000001,47.670849,0.0 -122.33418000000002,47.670452,0.0 -122.33062899999999,47.665091,0.0 -122.330135,47.664253,0.0 -122.33030700000002,47.65193200000001,0.0 -122.331465,47.651975,0.0 -122.33133700000002,47.65053,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Pedestrian/Bike Signal</name>
+				<description><![CDATA[Crossing signal at N 40th St. & Sunnyside Ave N. Submitted in 2011 and 2012 to Neighborhood Project Fund.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33027499999999,47.654808,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>John Stanford Greenway</name>
+				<description><![CDATA[Seattle Department of Transportation did a study with John Stanford International Elementary School to identify safer routes to school in 2011 http://bit.ly/KJHS6n.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32453100000001,47.65587800000001,0.0 -122.32461700000002,47.657815,0.0 -122.327921,47.657699,0.0 -122.32886600000002,47.658017,0.0 -122.33496,47.657988,0.0 -122.335131,47.659029,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>northbound east of Aurora</name>
+				<description><![CDATA[Not exactly sure if a low stress N-S route is best on narrow Midvale or wide Woodlawn. Biggest challenge$ is crossing Bridge Way N to Burke Gilman Trail and the northern crossing of 50th Ave N. At the north end, recommendation is to go through the Zoo/Woodland Park to PhinneyWood.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34448,47.665041,0.0 -122.344787,47.654288,0.0 -122.34380000000002,47.653421,0.0 -122.34405800000002,47.648853,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>existing ped bridge.</name>
+				<description><![CDATA[This is the route recommended by SDOT. Community has mixed reactions to it, particularly to the fairly disfunctional runnel across Aurora. Sorry SDOT! http://www.facebook.com/photo.php?fbid=342274922469644&set=a.325832770780526.79952.185101894853615&type=3&theater]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.343732,47.659173,0.0 -122.34353899999999,47.655401000000005,0.0 -122.34838800000001,47.655401000000005,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NE Pacific Street Crossing</name>
+				<description><![CDATA[Elementary School parents submit 2012 Neighborhood Project Fund application for a crossing at Pacific & Latona Ave N or 2nd Ave N.<br>http://www.wallyhood.org/2012/03/crosswalk-campaign/]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32443799999999,47.654346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Low Stress cycletrack &amp; I-5 crossing</name>
+				<description><![CDATA[Lots going on here. Counterflow bike lane from Latona to 5th on 44th. Diverter at 5th & 44th. Low stress sidewalk/cycletrack to I-5. Safe lights, lanes, and sidewalks across I-5.<br><br>SDOT 2007 BMP has a ped/bike bridge across 8 lanes of I-5 at 47th. This is option 2.]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.324524,47.660185,0.0 -122.322464,47.660243,0.0 -122.32263600000002,47.661225,0.0 -122.320404,47.661225,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Densmore Greenway</name>
+				<description><![CDATA[Alternative N-S route recommended in http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33628300000001,47.658913,0.0 -122.33611100000002,47.65793,0.0 -122.33757000000001,47.657872000000005,0.0 -122.33757000000001,47.646713,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Aurora N 46th crossing</name>
+				<description><![CDATA[This crossing is preferred to connect Wallingford to PhinnneyWood because is has the least elevation change. While it is the most practical for people, engineering the crossing will take a great deal of intelligence! http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.346153,47.662266,0.0 -122.35044500000001,47.662324,0.0 -122.350359,47.662266,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>McDonald School Greenway</name>
+				<description><![CDATA[This greenway is veering into areas the Green Lake Greenway group will plan. It can connect two elementary schools (McDonald and Green Lake K-5) and is a low stress route recommended in the Wallingford Greenway plan http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33250600000001,47.668798,0.0 -122.32984499999999,47.669433,0.0 -122.328043,47.669491,0.0 -122.32821500000001,47.67602200000001,0.0 -122.32821500000001,47.675964,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NE 50th crossing connector</name>
+				<description><![CDATA[The purpose of this route is to connect the N 46th St route through the developing N 50th St. Business Node at 1st Ave NE. Recommended in the http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32821500000001,47.662815,0.0 -122.32821,47.6659,0.0 -122.32958000000002,47.66804,0.0 -122.32812,47.66804,0.0 -122.32812,47.6692,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NE 50th St Business Node</name>
+				<description><![CDATA[Several small business flourish at NE 50th St. and 1st Ave NE. Recommend Toucan signal at this location. http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32821500000001,47.664607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46th St Greenway</name>
+				<description><![CDATA[This greenway segment was recommended in the 2007 Bicycle Master Plan and deserves more study as it can connect north and west. Recommended in the http://seattlegreenways.org/wp-content/uploads/CompleteWallingfordGreenwaysReport.pdf]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32396000000001,47.66145,0.0 -122.32399999999998,47.66322,0.0 -122.32705000000001,47.66319,0.0 -122.32714000000001,47.66246000000001,0.0 -122.33379,47.66264,0.0 -122.3337,47.66206,0.0 -122.345424,47.662179,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Pedestrian crossing signal to Woodland Park</name>
+				<description><![CDATA[Intersection of N Clogston Way and Green Lake Way N.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34008099999998,47.668436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wallingford Ave N section</name>
+				<description><![CDATA[Signal crossing at N 50th St. Minimal elevation change North>>South.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.336969,47.671427,0.0 -122.337356,47.671023,0.0 -122.33636900000002,47.668769,0.0 -122.33636900000002,47.66215,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Maple Leaf</name>
+			<Placemark>
+				<name>P1 - Bike Trail and Greenway</name>
+				<description><![CDATA[Road-separated bike path/trail from Northgate LINK station, along 1st Ave NE, to 92nd St, where riders can continue south along a Maple Leaf greenway or turn west, crossing over I-5 to bike trails and or greenways to NSCC, Licton Springs, Greenlake, and/or points beyond.<br><br>It is the shallowest/lowest elevation route through/over Maple Leaf, has plenty of street space, and will be completely transformed by Link and there might be Sound Transit money to be leveraged.]]></description>
+				<styleUrl>#line-FF0000-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32721700000002,47.70221,0.0 -122.327195,47.701358,0.0 -122.32851700000002,47.701386,0.0 -122.32843,47.69589,0.0 -122.32836,47.69046,0.0 -122.30950000000001,47.69029,0.0 -122.30951,47.69122,0.0 -122.30693,47.69121,0.0 -122.30689,47.69118,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection A</name>
+				<description><![CDATA[Situating a dedicated bike path on the north side of 100th would separate cyclists from cars and give cyclists direct access to the Link station, avoiding another street/intersection crossing.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32719100000001,47.701329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection B</name>
+				<description><![CDATA[Green bike boxes and an specific bike cycle in the timing of the traffic signal would enable cyclists to cross 1st Ave and use a dedicated bike path on the west side of the road.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328538,47.701386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection C, End Bike Trail / Start of Greenway</name>
+				<description><![CDATA[This intersection will need to help move people North/South from the a future greenway and North/West to and from Licton Springs and North Seattle Community College. Curb separated bike lanes would be ideal and enable safe passage for many people moving towards the Link station.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32843300000002,47.695942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection D 5th Ave and 85th St</name>
+				<description><![CDATA[Intersection treatment at 5th Ave NE, Prioritize pedestrian crossing in existing traffic signal and add curb bulbs.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.322979,47.69041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection E Roosevelt and 85th St</name>
+				<description><![CDATA[Intersection Treatment at Roosevelt Ave. Curb bulbs,pedestrian/cyclist controlled road-embedded blinking crosswalk lights]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31770000000002,47.69041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Intersection F 15th Ave and 85th St</name>
+				<description><![CDATA[Intersection treatment at 15th Ave. Curb bulbs,pedestrian/cyclist controlled road-embedded blinking crosswalk lights]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.312336,47.690266,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - End of Greenway</name>
+				<description><![CDATA[Wide intersection at 86th St, 20th Ave, and Lake City Way. Riders would use 86th and then cross the existing intersection to the heavily used bike route on 20th Ave NE.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.30693399999998,47.691212,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Separarted Bike Path</name>
+				<description><![CDATA[This will be a vital link from North Seattle Community College, Licton Springs, Greenlake, and Maple Leaf to the Northgate Link Station.]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32720599999999,47.702224,0.0 -122.327228,47.701372,0.0 -122.32850999999998,47.70138,0.0 -122.32845,47.69604,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>8th Ave Greenway</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32057600000002,47.708722,0.0 -122.32031,47.69887,0.0 -122.32023,47.68523,0.0 -122.32018,47.685210000000005,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>8th Ave NE at NE 105th St</name>
+				<description><![CDATA[Intersection treatment.]]></description>
+				<styleUrl>#icon-112</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.320554,47.70878,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northern Route</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32726099999998,47.703155,0.0 -122.32044199999999,47.703127,0.0 -122.320539,47.707635,0.0 -122.320314,47.707621,0.0 -122.31955200000002,47.707607,0.0 -122.319455,47.707578,0.0 -122.31835,47.707545,0.0 -122.318323,47.707599,0.0 -122.317851,47.707614,0.0 -122.31784,47.70765000000001,0.0 -122.31752000000002,47.70758,0.0 -122.31678,47.70724,0.0 -122.31546000000002,47.70711,0.0 -122.31539,47.70681,0.0 -122.31522000000001,47.70674,0.0 -122.30807,47.70666,0.0 -122.3081,47.70646,0.0 -122.30807,47.70666,0.0 -122.30433,47.70662,0.0 -122.30437,47.7103,0.0 -122.30256,47.71026,0.0 -122.30169,47.7112,0.0 -122.30172999999999,47.71205,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>15th Ave NE and NE 107th St</name>
+				<description><![CDATA[Intersection Treatment at 15th Ave NE]]></description>
+				<styleUrl>#icon-112</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31242200000001,47.706715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23rd Ave NE and NE Northgate Way</name>
+				<description><![CDATA[Intersection Treatment at NE Northgate Way]]></description>
+				<styleUrl>#icon-112</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.304364,47.70891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15th Ave NE and NE 103rd St</name>
+				<description><![CDATA[Improve intersection for bikes and pedestrians. Re-time light to give dedicated pedestrian and bike crossing window]]></description>
+				<styleUrl>#icon-112</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32319400000002,47.703134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roosevelt Ave NE and NE 108th St</name>
+				<description><![CDATA[Intersection treatment at Roosevelt. Pedestrian controlled lighted corsswalk marking and bike/ped island in street.]]></description>
+				<styleUrl>#icon-112</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.317894,47.707625,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>U-District</name>
+			<Placemark>
+				<name>P-1 12th Ave NE</name>
+				<description><![CDATA[Our priority north-south greenway for the University District. Minimal interventions are necessary along the route, and it will eventually connect with the Burke Gilman trail once Terry and Lander Halls are two separate buildings.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.315637,47.654659,0.0 -122.31555000000002,47.65538,0.0 -122.31542,47.6621,0.0 -122.31524999999999,47.66262,0.0 -122.31519000000002,47.6715,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack on NE 47th St</name>
+				<description><![CDATA[47th Street NE is a major east-west connector in the neighborhood. A safer alternative to 45th Street, it links walkers and bikers with two grocery stores and many other amenities. Don't know its traffic loads, but it gets a ton of vehicle traffic at high speeds, (it is a wide street) and would benefit from an intensive treatment, at least from 7th Avenue NE to 20th Ave. NE.<br>Wouldn't this be dreamy? (1)]]></description>
+				<styleUrl>#line-6633FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32077,47.66313,0.0 -122.30444,47.663104,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Greenway NE 55th St</name>
+				<description><![CDATA[An important east- west connector, especially for pedestrians.]]></description>
+				<styleUrl>#line-993399-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.320129,47.67333500000001,0.0 -122.320107,47.668581,0.0 -122.30650300000002,47.668509,0.0 -122.30650300000002,47.667974,0.0 -122.30373500000002,47.667988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Brooklyn Ave NE</name>
+				<description><![CDATA[Connects U-District to northern neighbors and Cowen Park.]]></description>
+				<styleUrl>#line-CC33CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31520200000001,47.671276,0.0 -122.31419399999999,47.671261,0.0 -122.31419399999999,47.672179,0.0 -122.314344,47.673364,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Greenway NE 43rd St</name>
+				<description><![CDATA[A key connector between UW, Light Rail and the neighborhood. Could be cycletrack.]]></description>
+				<styleUrl>#line-6600CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.311932,47.659795,0.0 -122.31772499999998,47.659867,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 9th Ave NE</name>
+				<description><![CDATA[Not ideal, but a good neighborhood street for making north-south connections. (Tough during UCDS pick-up/drop off times)]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31838,47.663152,0.0 -122.31838,47.668557,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack on 22nd Ave NE</name>
+				<description><![CDATA[22nd Avenue NE is a key connector to the Burke Gilman trail for people north of 45th, but it is an extremely wide street with high speeds and poor visibility. Plenty of space for a pleasant, separated bike and walkway here. <br><br>Poor visibility continues on Ravenna Place NE, where awkward street intersections and bikes going downhill make a dangerous combination.]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.304479,47.663070000000005,0.0 -122.304479,47.662420000000004,0.0 -122.30435,47.662174,0.0 -122.304007,47.662854,0.0 -122.303964,47.663562,0.0 -122.304415,47.664776,0.0 -122.30456500000001,47.665729,0.0 -122.30437200000001,47.666351,0.0 -122.304415,47.667319,0.0 -122.30443600000001,47.667637,0.0 -122.30426400000002,47.66781,0.0 -122.303771,47.667969,0.0 -122.302934,47.668128,0.0 -122.301176,47.666252,0.0 -122.30101500000002,47.666173,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 21 Ave NE</name>
+				<description><![CDATA[Coupled with 21st Place NE, on the uphill, this route provides a safe, low traffic alternative to 45th and a connection to 47th Street.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.304416,47.662162,0.0 -122.304813,47.661331,0.0 -122.305489,47.661288,0.0 -122.30546800000002,47.663066,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>8th Ave NE</name>
+				<styleUrl>#line-0000FF-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32222400000002,47.661336000000006,0.0 -122.319539,47.661302,0.0 -122.319582,47.663152,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Montlake Bridge to UW Medical Center</name>
+				<description><![CDATA[Connecting the west side of Montlake Bridge with UW and the neighborhood. Lots of possibilities here.]]></description>
+				<styleUrl>#line-CC33CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30464,47.64708000000001,0.0 -122.30469,47.64788,0.0 -122.30576,47.64794,0.0 -122.308688,47.649229,0.0 -122.30967500000001,47.649836,0.0 -122.310748,47.650414,0.0 -122.31212100000002,47.650819,0.0 -122.312851,47.650906,0.0 -122.313623,47.651542,0.0 -122.313495,47.652235,0.0 -122.312851,47.652611,0.0 -122.312336,47.653189,0.0 -122.31225000000002,47.65316,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Ravenna Park ravine trail</name>
+				<description><![CDATA[Potential for paved trail through the park for a low-grade change and safer connection from Ravenna Place NE to points north and west.]]></description>
+				<styleUrl>#line-CC33CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31403799999998,47.672304,0.0 -122.31318,47.672535,0.0 -122.312922,47.673113,0.0 -122.310605,47.673518,0.0 -122.30742900000001,47.671726,0.0 -122.305026,47.672073,0.0 -122.30202200000001,47.67057,0.0 -122.30159299999998,47.669241,0.0 -122.302709,47.668489,0.0 -122.302966,47.668085,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Greenway NE 40th to U-Bridge</name>
+				<description><![CDATA[A much-used connector between the neighborhood and UW, especially with the new dorms that have been completed recently and those that are under construction.]]></description>
+				<styleUrl>#line-6600CC-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31190000000001,47.655348,0.0 -122.318251,47.655377,0.0 -122.31949599999999,47.653758,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>I-5 at 50th St. NE crossing</name>
+				<description><![CDATA[An intensive crossing treatment is needed to safely cross I-5 at 50th. Crossings in all directions (north-south, and east-west) need attention. Note that most schoolchildren on the east side of I-5 between 45th and Ravenna will to cross here to get to McDonald school.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32194899999999,47.664809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-1 Intersection 12th Ave NE and 50th</name>
+				<description><![CDATA[Ped/Bike activated light (or more) needed at 12th Avenue NE and 50th Street. Limiting vehicle turns onto 12th would also be helpful.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31525399999998,47.664983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I-5 Crossing at 45th</name>
+				<description><![CDATA[Safe, separated crossing needed in all directions to cross this intersection. Primary crossing for all schoolchildren east of I-5 attending John Stanford School and Hamilton School.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.322121,47.661283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lid over I-5</name>
+				<description><![CDATA[Create a community amenity with a lid and park over I-5 that provides safe crossing for bikes and pedestrians, green space for the neighborhood, and reconnects Wallingford and the U-District. Could be retail or more, too!]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.321563,47.664882,0.0 -122.321734,47.661413,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-1 Intersection 12th Ave. NE and Ravenna Blvd.</name>
+				<description><![CDATA[A better connection between 12th Avenue NE and Ravenna Blvd. is needed here, especially connection the north side of the Blvd. with 12th.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31504000000001,47.67137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Intersection 11th Ave. NE and 55th</name>
+				<description><![CDATA[High speeds and traffic along 11th Avenue NE make it difficult to cross for bikes and, especially pedestrians. Ped. activated light or more needed here.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.316198,47.668509,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Intersection Roosevelt Way NE and 55th</name>
+				<description><![CDATA[High speeds and traffic volumes along Roosevelt make crossing very difficult. Ped. activated light or more needed.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.317314,47.668538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47th Avenue NE and Brooklyn</name>
+				<description><![CDATA[A wide, dangerous crossing for pedestrians and bikes alike. Intensive treatment needed.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31418100000002,47.663162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17th Avenue NE</name>
+				<description><![CDATA[Reinvigorate Olmstead's plan for the neighborhood and prioritize this tree-lined entry to UW for bikes and pedestrians. A gem of a street, but taken over by fast moving cars and parking.]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30967500000001,47.670127,0.0 -122.309589,47.660618,0.0 -122.30954600000001,47.660618,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Intersection 17th Avenue NE and 45th</name>
+				<description><![CDATA[Make a grand entrance to UW that is safe for walkers and bikers. A scramble? Curb bulbs? Better sidewalks? Yes to all of the above.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.309504,47.661254,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20th Avenue Cycletrack</name>
+				<description><![CDATA[20th Avenue NE connecte all northern neighborhoods to the U-District via the 20th Ave bike and ped.-only bridge. A cycletrack from the bridge to the UW is needed to safely connect these two points along a busy, high traffic street.]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30645699999998,47.670792,0.0 -122.30648999999998,47.66093,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>20th Avenue NE and 45th</name>
+				<description><![CDATA[More space for bikes and pedestrians at this intersection, especially on the south side of the street would be very beneficial. A scramble, or similar treatment would be useful here.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.30645699999998,47.660763,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-2 Intersection Ravenna Place NE and Burke Gilman Trail</name>
+				<description><![CDATA[Difficult connection with the Burke Gilman trail at this intersection, especially trying to go north on Ravenna Place NE from the trail.]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.30100600000002,47.666139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack on NE 50th Street</name>
+				<description><![CDATA[Wouldn't this be dreamy? (2)]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.323151,47.664983,0.0 -122.30648999999998,47.66486,0.0 -122.30654000000001,47.66486,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Green Lake</name>
+			<Placemark>
+				<name>P1 - Green Lake Cycle Track--Community Center Segment</name>
+				<description><![CDATA[This connects the North Green Lake Route with the Tangletown Route via the Green Lake Dr. Cycle Track]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.329384,47.678397,0.0 -122.328225,47.678354,0.0 -122.32782,47.678364,0.0 -122.327241,47.678458,0.0 -122.32673,47.67863,0.0 -122.32626000000002,47.67894,0.0 -122.32601,47.67922,0.0 -122.32581999999998,47.67968,0.0 -122.32581999999998,47.68001,0.0 -122.32603,47.68052,0.0 -122.32636000000001,47.68086,0.0 -122.32844000000001,47.68217,0.0 -122.32879,47.68235000000001,0.0 -122.32924,47.68249,0.0 -122.32984,47.682610000000004,0.0 -122.33035000000001,47.68264,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Green Lake Cycle Track--North Segment</name>
+				<styleUrl>#line-3366FF-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33928499999999,47.684743,0.0 -122.339215,47.684842,0.0 -122.33910499999999,47.684983,0.0 -122.339049,47.685049,0.0 -122.33893600000002,47.68512200000001,0.0 -122.338566,47.6853,0.0 -122.338362,47.685441,0.0 -122.338314,47.68547,0.0 -122.33815000000001,47.685514000000005,0.0 -122.337914,47.685573,0.0 -122.33765400000001,47.685613,0.0 -122.337375,47.685622,0.0 -122.337163,47.685613,0.0 -122.33696400000001,47.685584,0.0 -122.33674500000001,47.685542,0.0 -122.336533,47.685477,0.0 -122.33629700000002,47.685387,0.0 -122.33608499999998,47.685282,0.0 -122.33588900000001,47.685134,0.0 -122.335741,47.685004,0.0 -122.33560999999999,47.684863,0.0 -122.335406,47.684665,0.0 -122.335095,47.68436,0.0 -122.33495,47.684221,0.0 -122.33455599999999,47.683825,0.0 -122.33434699999998,47.683616,0.0 -122.334035,47.683314,0.0 -122.333837,47.683157,0.0 -122.333649,47.683029,0.0 -122.33341299999998,47.682915,0.0 -122.333258,47.682841,0.0 -122.332987,47.68274,0.0 -122.332818,47.682688,0.0 -122.33256599999999,47.682628,0.0 -122.332225,47.68257,0.0 -122.331943,47.682541,0.0 -122.331729,47.682543,0.0 -122.33148499999999,47.682549,0.0 -122.331219,47.682574,0.0 -122.33093800000002,47.682610000000004,0.0 -122.33073100000001,47.68263,0.0 -122.330495,47.682644,0.0 -122.33035000000001,47.682642,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Green Lake Elementary to McDonald International School and Wallingford</name>
+				<description><![CDATA[Connects Green Lake Community Center to Green Lake Elementary School to McDonald International School to Wallingford.<br><br>The single most important route we've identified through Tangletown. It will create a safer route for McDonald International School and Green Lake Elementary school children, connect the McDonald and Green Lake Schools with several other schools nearby, and connect the Wallingford, Tangletown and Green Lake neighborhoods.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32938500000002,47.678388,0.0 -122.329465,47.677557,0.0 -122.32959000000001,47.67596,0.0 -122.32817000000001,47.67591,0.0 -122.32819000000002,47.66936,0.0 -122.32823999999998,47.6679,0.0 -122.32952,47.6679,0.0 -122.33204999999998,47.66723,0.0 -122.33013,47.66423,0.0 -122.33017000000001,47.6613,0.0 -122.33022999999999,47.6603,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - North Green Lake Route</name>
+				<description><![CDATA[Connects Green Lake with North Seattle Community College and the future pedestrian/bike overpass at Northgate Link station. This route will also create a safe route to Blanchett High School.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33519000000001,47.7014,0.0 -122.33512000000002,47.69778,0.0 -122.33511,47.69232,0.0 -122.33808000000002,47.69234,0.0 -122.33805,47.69051,0.0 -122.33778,47.69051,0.0 -122.33775999999999,47.68872,0.0 -122.33100999999999,47.68864,0.0 -122.331,47.68687,0.0 -122.3304,47.68687,0.0 -122.330355,47.682657,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 53rd/54th West-East Connection</name>
+				<description><![CDATA[This alignment takes advantage of the existing SDOT/SPS walking route, and the existing crosswalk on Meridian. It is the most direct E-W route to the McDonald School. This route would create a safer passage for McDonald International School children.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34006000000001,47.66708,0.0 -122.33907,47.66708,0.0 -122.33847,47.66722,0.0 -122.332023,47.66719,0.0 -122.32952,47.6679,0.0 -122.32560000000001,47.6679,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - West Green Lake-Bagley School Connector</name>
+				<description><![CDATA[Connects Bagley Elementary School to Green Lake and the North Green Lake route. This route also connects with the Greenwood/Phinney alignment on 77th.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33774,47.6887,0.0 -122.34179,47.68872,0.0 -122.34177,47.68477,0.0 -122.339346,47.684766,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Sharrows and McDonald School Crossing of St at Latona</name>
+				<description><![CDATA[This is an extremely important crossing--although it's not associated with a proposed greenway route, it is the crossing for the sharrows on Latona and Thackeray. It is also the location of a designated crossing for McDonald International and will be assigned a crossing guard because of the hazard of crossing at this location. <br><br>The transition of the northbound-southbound couplet of Thackeray and Latona to the south to the two-way street of Latona to the north creates a confusing and dangerous situation for pedestrians and cyclists.<br><br>Two blocks to the west, the eastbound channels transition from one lane to two, and motorists are increasing their speeds and spreading traffic into two lanes as they approach the freeway onramps.<br><br>The combination of sharrows, designated elementary school crossing, the couplet and one of the more highly traveled E-W arterials in north Seattle make at least as important as the crossing of 50th by the P1 route at Sunnyside.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32564,47.664983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - East Green Lake Dr N Crossing</name>
+				<description><![CDATA[Corliss is the least-stress alignment going north from here, but this intersection lacks a light or marked crosswalk.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33035000000001,47.682671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Route Crossing of 50th.</name>
+				<description><![CDATA[50th Street divides the McDonald School reference area. Children well within biking or walking distance need better options for crossings. This intersection is also the location of the P1 route for the Wallingford-Green Lake Greenway alignment. <br><br>Children coming from the Wallingford Co-op Preschool need to cross three streets to get to the Meridian Playground. The traffic signal here is not optimized for pedestrians or bikes--it is a very short signal.<br><br> Because of all the needs this crossing serves--kids from Meridian School, the McDonald International School, the Wallingford Co-op, the P1 Greenway route, and other users of the Meridian Playground, this crossing needs better infrastructure and signaling.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.330574,47.665012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 53rd/Meridian Crossing</name>
+				<description><![CDATA[The north leg of Meridian/53rd is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School. There are no traffic calming measures along Meridian between 50th and 55th. According to the survey done by the McDonald International School, this is considered a dangerous crossing by many parents. This Crossing needs traffic calming.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33362199999999,47.667295,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - N 80th St/Stone Ave N Crossing</name>
+				<description><![CDATA[Critical for Bagley School]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.341776,47.6869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 50th and 5th Ave NE</name>
+				<description><![CDATA[Children walking or biking from the U-District to the McDonald International School will need to cross this dangerous intersection.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32285,47.66499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Densmore Ave N/N 85th St Crossing</name>
+				<description><![CDATA[There is no light at this critical crossing of a heavily-used arterial. An effective greenway will require better pedestrian and bike infrastructure here.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33793999999999,47.690526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Stone Ave N/Green Lake Dr N Crossing</name>
+				<description><![CDATA[Critical for Bagley School]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34178899999999,47.687671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Corliss Ave N-N 80th St</name>
+				<description><![CDATA[The greenway alignment takes a jog at this intersection. For an effective greenway, better bike and pedestrian crossing infrastructure is needed to cross this hazardous intersection.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.330696,47.686902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Winona Ave N/West Green Lake Dr N Crossing</name>
+				<description><![CDATA[Very wide and confusing intersection creates hazards for pedestrians and cyclists here. Great potential for bulbouts or other street-narrowing solutions. Critical for Bagley School connection to Green Lake.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.339914,47.684766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P2 Woodlawn Tangletown Route</name>
+				<description><![CDATA[This is a low-elevation gain route from Green Lake to Wallingford. Although it is an easier ride, and an excellent route for cyclists going between these two neighborhoods, it doesn't serve the Tangletown business district or the McDonald International School.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32965000000002,47.67596,0.0 -122.33145,47.67596,0.0 -122.33146000000002,47.67591,0.0 -122.33268000000001,47.67485,0.0 -122.33336,47.674290000000006,0.0 -122.33374,47.67411,0.0 -122.33792,47.67058,0.0 -122.33798,47.67018,0.0 -122.33799000000002,47.66870000000001,0.0 -122.33847,47.66870000000001,0.0 -122.33847,47.66577,0.0 -122.33638,47.66577,0.0 -122.33641,47.66212,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P2 - Green Lake Cycle Track--Southeast Segment</name>
+				<description><![CDATA[The proposed two way cycle track would be a loop around Green Lake that would either be on the road (lake side of Green Lake Way or Dr) or on a segregated trail near Aurora.  This route would connect with many of the proposed neighborhood connectors (e.g., Ravenna, 77th, etc.).  Ideally, the cycle track would be separated from car traffic with some variety of barrier.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32939,47.6784,0.0 -122.33048,47.67844,0.0 -122.33080000000001,47.67842,0.0 -122.33131000000002,47.67829,0.0 -122.33178,47.67805,0.0 -122.33208,47.67773,0.0 -122.3322,47.67748,0.0 -122.3326,47.67621,0.0 -122.33273,47.676,0.0 -122.33306000000002,47.67567,0.0 -122.33355000000002,47.67532,0.0 -122.33447,47.67478,0.0 -122.33718000000002,47.6725,0.0 -122.33764000000001,47.67225,0.0 -122.33847,47.67194,0.0 -122.33937,47.67167,0.0 -122.33977,47.6714,0.0 -122.34096999999998,47.67158,0.0 -122.34239000000001,47.67129,0.0 -122.3426,47.67056,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake Cycle Track--Northwest Segment</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33927000000001,47.68473000000001,0.0 -122.34011,47.68319,0.0 -122.34038,47.68286,0.0 -122.34062,47.68264,0.0 -122.34101,47.68238,0.0 -122.34157999999998,47.68212,0.0 -122.34340999999999,47.68169,0.0 -122.34415,47.68137,0.0 -122.34415,47.68092000000001,0.0 -122.34425700000001,47.68074500000001,0.0 -122.344544,47.680438,0.0 -122.34478,47.68008,0.0 -122.34507000000002,47.67931,0.0 -122.34513,47.67892,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake Cycle Track--Southwest Segment</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.345129,47.67891,0.0 -122.345161,47.67874900000001,0.0 -122.345204,47.678502,0.0 -122.345239,47.678325,0.0 -122.34530599999998,47.678056,0.0 -122.34549700000001,47.677555,0.0 -122.345558,47.677427,0.0 -122.345633,47.67729,0.0 -122.34571099999998,47.677182,0.0 -122.34582100000002,47.677012,0.0 -122.34591199999998,47.676871,0.0 -122.345998,47.676735,0.0 -122.346105,47.676578,0.0 -122.346205,47.676398,0.0 -122.34626599999999,47.676268,0.0 -122.346336,47.676127,0.0 -122.34637600000002,47.675975,0.0 -122.34640099999999,47.67573,0.0 -122.34633700000002,47.675527,0.0 -122.34640600000002,47.675469,0.0 -122.346481,47.675383,0.0 -122.346481,47.675271,0.0 -122.346438,47.675188,0.0 -122.34643300000002,47.675072,0.0 -122.346301,47.674872,0.0 -122.346081,47.674622,0.0 -122.34581,47.674373,0.0 -122.345607,47.674176,0.0 -122.345376,47.674025,0.0 -122.345071,47.673801,0.0 -122.344727,47.673588,0.0 -122.344432,47.673309,0.0 -122.344228,47.673053,0.0 -122.34391700000002,47.672547,0.0 -122.34375599999998,47.672157,0.0 -122.343676,47.67176,0.0 -122.34363800000001,47.671464,0.0 -122.34356300000002,47.67130100000001,0.0 -122.343456,47.671164,0.0 -122.34327299999998,47.671008,0.0 -122.34305900000001,47.67081,0.0 -122.342689,47.6706,0.0 -122.342592,47.670553,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Tangletown-Green Lake Connector</name>
+				<description><![CDATA[Connects Tangletown and Green Lake well with a more direct route.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33194700000001,47.667149,0.0 -122.334221,47.670532,0.0 -122.33602100000002,47.670849,0.0 -122.33765400000001,47.672295,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>1st Ave Alignment</name>
+				<description><![CDATA[1st Ave NE, north of 50th, to 54th Street was discussed as a potential greenway route.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32827,47.664959,0.0 -122.3283,47.666012,0.0 -122.328522,47.66637,0.0 -122.328468,47.666458,0.0 -122.328613,47.666519,0.0 -122.329529,47.6679,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake to Link Station and Roosevelt HS</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.324751,47.679042,0.0 -122.323635,47.679258,0.0 -122.32270199999999,47.679497,0.0 -122.321436,47.678081,0.0 -122.320041,47.676578,0.0 -122.31739100000001,47.676571,0.0 -122.31568500000002,47.676564,0.0 -122.31435500000002,47.676557,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connection to Greenwood/Phinney Ridge</name>
+				<description><![CDATA[This connects Green Lake to the Greenwood/Phinney route on Dayton.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34513100000001,47.678917,0.0 -122.34559000000002,47.67889,0.0 -122.34563,47.6787,0.0 -122.3489,47.67869,0.0 -122.35261000000001,47.67874,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake to Zoo Connector</name>
+				<description><![CDATA[This is a potential route to connect Green Lake to one of the old Woodland Park pedestrian overpasses, and then to the zoo entrances.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34260200000001,47.670562,0.0 -122.34273100000001,47.670429,0.0 -122.34284299999999,47.670355,0.0 -122.34296999999998,47.67032,0.0 -122.34309,47.6703,0.0 -122.34321,47.67031,0.0 -122.343348,47.670365,0.0 -122.34368000000002,47.67059,0.0 -122.34387000000001,47.67063,0.0 -122.3444,47.67057,0.0 -122.34508000000001,47.67064,0.0 -122.34609,47.67065000000001,0.0 -122.34627,47.67071,0.0 -122.34667000000002,47.67051,0.0 -122.34681,47.67004,0.0 -122.34699,47.66993,0.0 -122.34752000000002,47.66993,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Zoo Connector</name>
+				<description><![CDATA[There is a dirt trail along the eastern edge of the Woodland Park Zoo, between the zoo and Aurora Ave. There is potential here to create a greenway to connect Green Lake to the main zoo entrance.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35035,47.665929000000006,0.0 -122.350039,47.665922,0.0 -122.34993200000001,47.665958,0.0 -122.349942,47.666189,0.0 -122.349921,47.666334,0.0 -122.34985600000002,47.666471,0.0 -122.349749,47.666529,0.0 -122.349513,47.666608,0.0 -122.349374,47.666673,0.0 -122.349234,47.66675300000001,0.0 -122.34908400000002,47.666818,0.0 -122.348945,47.66684,0.0 -122.348837,47.666796000000005,0.0 -122.348719,47.66663,0.0 -122.34856899999998,47.6665,0.0 -122.34834399999998,47.66658,0.0 -122.34798999999998,47.666572,0.0 -122.34776400000001,47.666637,0.0 -122.34757100000002,47.666652,0.0 -122.34755,47.668292,0.0 -122.347528,47.669932,0.0 -122.34755,47.671716,0.0 -122.348483,47.671731,0.0 -122.34995299999999,47.671745,0.0 -122.351423,47.671738,0.0 -122.35141200000001,47.671492,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Northgate Overpass Connector</name>
+				<description><![CDATA[Creates a short link to the possible pedestrian/bike overpass to Northgate.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3352,47.70141000000001,0.0 -122.33386,47.70143,0.0 -122.33292500000002,47.701437,0.0 -122.33228099999998,47.702296,0.0 -122.32886900000001,47.702275,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Library Connection</name>
+				<description><![CDATA[Discussed. This may be redundant.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.329376,47.67878,0.0 -122.329498,47.67905,0.0 -122.3293,47.67934,0.0 -122.32919300000002,47.67976,0.0 -122.32914000000001,47.6805,0.0 -122.328979,47.68122100000001,0.0 -122.32882700000002,47.681278,0.0 -122.328102,47.681198,0.0 -122.32762900000002,47.681519,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>1st Ave Alignment</name>
+				<description><![CDATA[1st Ave NE was discussed as a potential greenway alignment. A well-designed crossing at 50th could be a great benefit to cyclists and pedestrians, but the Sunnyside alignment directly serves more schools.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.328308,47.660286,0.0 -122.328255,47.664963,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Light Rail Connector</name>
+				<description><![CDATA[E-W connection to Roosevelt Light Rail station and  the NE Seattle P1 Route on Brooklyn. This route parallels the NE Seattle route on 62nd, but this alignment would make a better connection from NE Seattle to Green Lake. Uses the hidden walkway from 63rd-Ravenna.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32822999999999,47.67443,0.0 -122.32173,47.67434,0.0 -122.32156,47.67444,0.0 -122.32147,47.6747,0.0 -122.32080100000002,47.674902,0.0 -122.320125,47.674187,0.0 -122.31434000000002,47.67415,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>East Green Lake to U District</name>
+				<description><![CDATA[This route connects Green Lake to the University District 8th Ave alignment.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32807,47.6759,0.0 -122.32228,47.67586,0.0 -122.32006000000001,47.67335,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>50th Street Connection to University District</name>
+				<description><![CDATA[This is a very tough street, but it is one of the few current connections to the U-District.<br><br>This alignment connects the sharrows on Latona/Thackeray to the alignments in the University District.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.325595,47.6679,0.0 -122.325599,47.667201,0.0 -122.32562000000001,47.666464,0.0 -122.32562000000001,47.665734,0.0 -122.32562999999999,47.66498,0.0 -122.32068,47.66494,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connection to North Interurban Route</name>
+				<description><![CDATA[This alignment connects E-W from the North Green Lake alignment to the Greenwood/Phinney North Interurban alignment.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33526,47.701415,0.0 -122.34192,47.70141000000001,0.0 -122.35058000000001,47.70144,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Woodland Park to 53rd St</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34289,47.67033,0.0 -122.34289,47.66863,0.0 -122.3426,47.66832,0.0 -122.34241000000002,47.66768,0.0 -122.34223000000001,47.66753,0.0 -122.34038100000001,47.667537,0.0 -122.34038,47.66707,0.0 -122.34005000000002,47.66707,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Woodland Park Ave to Woodland Park</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34258,47.66815,0.0 -122.34279,47.66721,0.0 -122.343,47.66681,0.0 -122.34322999999999,47.66661,0.0 -122.34345,47.66651,0.0 -122.34351000000001,47.66636,0.0 -122.34420000000001,47.66582,0.0 -122.344447,47.665561,0.0 -122.34456000000002,47.6653,0.0 -122.34455,47.66505,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Maple Leaf Connector</name>
+				<description><![CDATA[Connects P1 Green Lake route to Maple Leaf greenway.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.335103,47.69413300000001,0.0 -122.333795,47.694129,0.0 -122.333778,47.69379,0.0 -122.33235200000001,47.69379,0.0 -122.33111200000002,47.693779,0.0 -122.331102,47.69466,0.0 -122.33111200000002,47.695917,0.0 -122.328435,47.695895,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>N 90th St Connector to Greenwood Greenway</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33509399999998,47.694137,0.0 -122.336467,47.694144,0.0 -122.337819,47.694151,0.0 -122.33917100000001,47.69418,0.0 -122.339986,47.694173,0.0 -122.340265,47.694194,0.0 -122.341338,47.694173,0.0 -122.341874,47.694187,0.0 -122.34238900000001,47.694187,0.0 -122.343484,47.69418,0.0 -122.34456699999998,47.694209,0.0 -122.347249,47.694202,0.0 -122.349921,47.694216,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connector to Phinney/Greenwood Greenways</name>
+				<description><![CDATA[Utilizes existing light at 77th and Aurora.  Ideally, additional traffic calming infrastructure on 77th would be beneficial.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34176500000001,47.684777000000004,0.0 -122.34986,47.68479,0.0 -122.34976000000002,47.68479,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P2 - Crossing of Green Lake Dr. at 53rd</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.340059,47.667082,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The east leg of 1st/55th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School. <br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing. There are not even curb cuts here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328186,47.66861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The north leg of 1st/54th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.  <br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing. There are not even curb cuts here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32829299999999,47.667923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[Latona/55th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.325553,47.667959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The south leg of Meridian/63rd is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>With what is essentially six legs, this intersection can be confusing and hazardous. There is a lot of space in the traveled way for lane reduction and potential for rechannelization of some wide intersections.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.333565,47.673939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The east leg of 1st/56th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328148,47.669342,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65th St/1st Ave Crossing</name>
+				<description><![CDATA[The east leg of 65th/1st is specified in the SDOT/SPS walking plan as a crosswalk for McDonald International School and Greenlake Elementary School.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328003,47.675945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Greenway Route Crossing of 50th St at 1st Ave.</name>
+				<description><![CDATA[Very good candidate for at least a pedestrian/bike activated traffic signal. Currently without a signal, this small commercial district and potential greenway crossing is hazardous to cyclists and pedestrians.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32827899999998,47.664968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aurora/100th Crossing</name>
+				<description><![CDATA[Investigate conditions here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34462999999998,47.701423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 82nd St/Wallingford Ave N Crossing</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.336411,47.688746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 88th St/Wallingford Ave N Crossing</name>
+				<description><![CDATA[Little ped/cycle infrastructure here. A crossing here will require ped/bike improvements.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.336446,47.69233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 92nd St/Burke Ave N.</name>
+				<description><![CDATA[Cul-de-sac on the south leg of this intersection may need a cut-through for bikes. Otherwise, there are good crosswalks at this 3-way stop.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.335119,47.695967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Green Lake Way N/Sunnyside Ave N</name>
+				<description><![CDATA[There is a pedestrian-activated signal here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32933,47.678435,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Fremont</name>
+			<Placemark>
+				<name>The Fremont Wiggle</name>
+				<description><![CDATA[There is no easy way up the hill, but this is about the easiest way going! We scouted this route Sunday, September 9, 2012 and found the easiest grades block-by-block. The goal of this route is to provide a family-friendly biking and walking route with the fewest steep climbs possible from the Burke-Gilman trail to a planned Phinney Ridge greenway to the north on Greenwood Ave.<br><br>The biggest challenges are at 36th, 39th, and 46th Streets. Phinney is preferable immediately north of the BGT because it connects directly to the trail and has a light for crossing 36th; a bit farther north Greenwood is preferable because it connects to Bowdoin Pl. and the rest of our route with the easiest grade. On our trip we used the north sidewalk of 39th; this is not an ideal way to connect these places.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35447400000001,47.650472,0.0 -122.35447400000001,47.652333,0.0 -122.354458,47.654165,0.0 -122.355526,47.654165,0.0 -122.35551000000001,47.654877,0.0 -122.35904499999998,47.654866,0.0 -122.359034,47.655585,0.0 -122.35717300000002,47.655582,0.0 -122.357162,47.656355000000005,0.0 -122.357554,47.656358,0.0 -122.357554,47.657731,0.0 -122.355472,47.657739,0.0 -122.35543500000001,47.658985,0.0 -122.355425,47.661428,0.0 -122.35540299999998,47.66241,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Fremont Wiggle Alternative</name>
+				<description><![CDATA[This is another possible way to get from 36th/Phinney to 39th/Greenwood. Presumably something north of the main roadbed on 36th would be used as a connector.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.354479,47.652329,0.0 -122.355565,47.652587000000004,0.0 -122.35553,47.654234,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Forty-one-two-three</name>
+				<description><![CDATA[This may be the next route we scout. It connects the western end of the Wallingford Greenway (Stone/43rd) across the 41st St. pedestrian bridge to Upper Fremont, then down to the BGT at 43rd. Connects neighborhood destinations like Ross Playground, BF Day, and Paseo; also connects to N-S greenways proposed by various groups: Woodland Park Ave, the Fremont Wiggle, and 6th Ave NW.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34229000000002,47.65923,0.0 -122.34465000000002,47.6592,0.0 -122.34457,47.65775,0.0 -122.34603,47.65775,0.0 -122.34598000000001,47.65668,0.0 -122.34685999999999,47.65665,0.0 -122.34688,47.6566,0.0 -122.34770000000002,47.6566,0.0 -122.34777000000001,47.65663,0.0 -122.34858000000001,47.65665,0.0 -122.34852999999998,47.65775,0.0 -122.35257,47.65772,0.0 -122.35283,47.65777,0.0 -122.35545999999998,47.65778,0.0 -122.35566000000001,47.65774,0.0 -122.35753,47.65773,0.0 -122.35753,47.65636,0.0 -122.35899999999998,47.65634,0.0 -122.35959,47.65751,0.0 -122.35957,47.65897,0.0 -122.36436,47.65892,0.0 -122.36621,47.659,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>North-to-west connection</name>
+				<description><![CDATA[People coming north on the "wiggle" route and that want to turn west on the "forty-1-2-3" route (toward 6th Ave NW, for example) will connect between them on 2nd Ave. W.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.359029,47.655582,0.0 -122.35901900000002,47.656348,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>TimF Meadowbrook Virtual Greenways</name>
+			<Placemark>
+				<name>98th St NE at 5th Ave E</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32310770000001,47.7004623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>98th Street Virtual Greenway</name>
+				<description><![CDATA[Need to add notes for one-ways and do-not-enters.  Very steep at points.  Some busy street crossings, but an ok route to Northgate from Meadowbrook.]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32310770000001,47.7004623,0.0 -122.2831535,47.7001446,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>97th St NE Burke-Gilman Access</name>
+				<styleUrl>#line-F8971B-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.2800636,47.6993647,0.0 -122.2731972,47.699307,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>39th St Greenway to 105th Connector</name>
+				<styleUrl>#line-F8971B-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.2855139,47.7047367,0.0 -122.2855139,47.7028883,0.0 -122.2843552,47.7026573,0.0 -122.28422639999998,47.7012132,0.0 -122.2831535,47.7001446,0.0 -122.28246690000002,47.6994225,0.0 -122.28268150000001,47.6984982,0.0 -122.28268150000001,47.69740070000001,0.0 -122.28268150000001,47.6959853,0.0 -122.2843122,47.6952054,0.0 -122.28800299999999,47.695321,0.0 -122.28800299999999,47.6901214,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>88th Street NE to Burke-Gilman via 92nd</name>
+				<description><![CDATA[Steep winding downhill toward BG]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.278036,47.696188,0.0 -122.27830410000001,47.6960431,0.0 -122.2799778,47.6962308,0.0 -122.2799778,47.69523430000001,0.0 -122.28126530000002,47.6953499,0.0 -122.2822952,47.6948299,0.0 -122.2823381,47.69431,0.0 -122.28289600000001,47.6940644,0.0 -122.2825956,47.6936745,0.0 -122.2825527,47.6923024,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>88th Street NE Connector</name>
+				<description><![CDATA[Safe flat neighborhood street]]></description>
+				<styleUrl>#line-009D57-4</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.2933674,47.692389,0.0 -122.2825527,47.6923024,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>85th St NE Connector</name>
+				<description><![CDATA[Somewhat busy, but flat]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.293404,47.690231,0.0 -122.2853422,47.690208,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>39th St Greenway Extension</name>
+				<description><![CDATA[Should update this to actual route.]]></description>
+				<styleUrl>#line-009D57-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.286339,47.686691,0.0 -122.2864151,47.690208,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Lake City Way Dangerous Crossing</name>
+				<description><![CDATA[This is a dangerous section that is easy to get caught on while accessing safer streets on either side of LCW.]]></description>
+				<styleUrl>#line-000000-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30336670000001,47.7003467,0.0 -122.3018217,47.7019064,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ravenna Ave NE</name>
+				<description><![CDATA[Bike lane south of 95th?  Then limited visibility but relatively flat compared to other routes in the area.]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3007917,47.6867125,0.0 -122.3015642,47.6876369,0.0 -122.3015642,47.6885614,0.0 -122.3014355,47.6896014,0.0 -122.3028088,47.6933856,0.0 -122.3051691,47.6951477,0.0 -122.3053837,47.695812,0.0 -122.3048258,47.6976317,0.0 -122.30439660000002,47.6985849,0.0 -122.3036242,47.6992492,0.0 -122.30246539999999,47.6994803,0.0 -122.30122089999999,47.700289,0.0 -122.29984760000002,47.7012132,0.0 -122.29881760000002,47.7030616,0.0 -122.2984743,47.7035815,0.0 -122.29817390000001,47.7040147,0.0 -122.29744800000002,47.704823,0.0 -122.2961569,47.706094,0.0 -122.296114,47.7084043,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>125th St NE Bike Lane</name>
+				<description><![CDATA[Some sections incomplete.]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31765749999998,47.7196655,0.0 -122.31709960000002,47.7194634,0.0 -122.28854999999999,47.719247,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>25th Ave NE Virtual Greenway</name>
+				<description><![CDATA[Flat and quiet.]]></description>
+				<styleUrl>#line-009D57-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.301876,47.719302,0.0 -122.30172999999999,47.71205,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>117th St NE Virtual Greenway</name>
+				<styleUrl>#line-F8971B-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.323494,47.7140641,0.0 -122.3017359,47.7138908,0.0 -122.29898930000002,47.7144106,0.0 -122.2930241,47.7128224,0.0 -122.29250909999999,47.7120139,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>110th Ave NE Connector</name>
+				<description><![CDATA[Access to safer crossings at Lake City Way]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.28146,47.70859,0.0 -122.28285310000001,47.7083177,0.0 -122.28671,47.70833,0.0 -122.2881,47.70831,0.0 -122.29791639999999,47.7084332,0.0 -122.29787350000001,47.7098482,0.0 -122.2977018,47.7104546,0.0 -122.2985601,47.7114364,0.0 -122.2985601,47.7120428,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>23rd Avenue NE Connector</name>
+				<description><![CDATA[Not a great route unless you're stuck in the area.]]></description>
+				<styleUrl>#line-DB4436-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30433,47.70662,0.0 -122.3043108,47.7020508,0.0 -122.30582000000001,47.70208,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>82nd St NE Connector</name>
+				<description><![CDATA[Need to extend to 20th]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.295036,47.690231,0.0 -122.296114,47.6902513,0.0 -122.29600670000002,47.6884603,0.0 -122.3015642,47.6885614,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>92nd St NE Greenway</name>
+				<description><![CDATA[This is in progress?]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32854,47.69598,0.0 -122.31212140000001,47.6957831,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Roosevelt Bike Lane</name>
+				<description><![CDATA[Under improvement]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31784999999999,47.70861,0.0 -122.3177862,47.6560224,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>20th Ave NE Bike Route</name>
+				<description><![CDATA[Signs, but no markings.  Arterial.]]></description>
+				<styleUrl>#line-F8971B-7</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30684279999998,47.6903236,0.0 -122.30645800000002,47.67556,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>23rd Street Virtual Greenway</name>
+				<description><![CDATA[Flat.  Perpendicular to a big climb]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3044825,47.7193767,0.0 -122.30437,47.7103,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>115th St NE Virtual Greenway</name>
+				<styleUrl>#line-F8971B-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.323451,47.712216,0.0 -122.29973,47.71205,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>8th Ave Virtual Greenway</name>
+				<description><![CDATA[Might extend further?]]></description>
+				<styleUrl>#line-F8971B-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32074739999999,47.7140641,0.0 -122.32057600000002,47.708722,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>35th Ave NE Bike Lanes</name>
+				<description><![CDATA[Not actually sure how far this extends]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.2907925,47.7192901,0.0 -122.29135,47.717348,0.0 -122.29156490000001,47.7142951,0.0 -122.29066369999998,47.7129091,0.0 -122.2907925,47.7083177,0.0 -122.29032099999999,47.677555,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Meridian Proposed Greenway</name>
+				<description><![CDATA[From Wilson-Pacific Map, District 5 Greenways]]></description>
+				<styleUrl>#line-F8971B-7</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33515000000001,47.70138,0.0 -122.33478070000001,47.7020508,0.0 -122.33405110000001,47.7026862,0.0 -122.33375,47.70319,0.0 -122.33409400000001,47.717182400000006,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Fremont Ave Bike Lane(?)</name>
+				<description><![CDATA[Need to verify - From Wilson-Pacific map]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34995299999999,47.671745,0.0 -122.3499,47.68476,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>On-Demand Bike Lockers</name>
+				<description><![CDATA[www.bike-link.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32726099999998,47.703155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Greenlake Drive N Connector</name>
+				<description><![CDATA[Lots of heat on Strava.]]></description>
+				<styleUrl>#line-DB4436-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3499,47.68908,0.0 -122.3443937,47.6891103,0.0 -122.33765400000001,47.685613,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>92nd Street Virtual Greenway?</name>
+				<description><![CDATA[Need to verify in person.  Too bad it won't connect.  ]]></description>
+				<styleUrl>#line-DB4436-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3053837,47.695812,0.0 -122.2905779,47.695682,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Safe Crossing Needed in Future to Connect I-5 Bridge</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.335167,47.701329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>97th Street Proposed Greenway</name>
+				<description><![CDATA[Needs Aurora Crossing]]></description>
+				<styleUrl>#line-DB4436-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35402819999999,47.6996536,0.0 -122.341886,47.69961,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>130 St Bike Lane</name>
+				<description><![CDATA[Next year?]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3450804,47.7233032,0.0 -122.3235369,47.72313,0.0 -122.31765749999998,47.7196655,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>I-5 Bridge at 117th St</name>
+				<styleUrl>#line-009D57-6-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33401890000002,47.7141002,0.0 -122.3287404,47.7140785,0.0 -122.3278713,47.7140641,0.0 -122.32718469999999,47.7136454,0.0 -122.3270345,47.7132556,0.0 -122.3271954,47.7128657,0.0 -122.3270345,47.7128008,0.0 -122.32684140000002,47.7131834,0.0 -122.32606890000001,47.7131762,0.0 -122.32602600000001,47.7122305,0.0 -122.323451,47.712216,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Haller Lake South Virtual Greenway</name>
+				<description><![CDATA[quiet roads.]]></description>
+				<styleUrl>#line-F8971B-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3449516,47.7195789,0.0 -122.3386002,47.7195789,0.0 -122.3372698,47.7171247,0.0 -122.3289013,47.7171536,0.0 -122.3287404,47.7140785,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-105-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/105-police.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-105-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/105-police.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-105-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-105-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-105-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-111-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-111-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-111'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-111-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-111-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-111-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-111-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-111-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-111-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-111-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-112-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/112-purple.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-112-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/112-purple.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-112'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-112-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-112-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-123-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-123-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-143-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/143-trail.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-143-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/143-trail.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-143-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-143-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-143-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-161-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-161-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-161'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-161-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-161-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-161-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-161-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-161-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-161-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-161-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-000000-5-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000000-5-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000000-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-000099-10-normal'>
+			<LineStyle>
+				<color>ff990000</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000099-10-highlight'>
+			<LineStyle>
+				<color>ff990000</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000099-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000099-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000099-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-10-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-10-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-4-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009D57-4-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>6.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009D57-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-6-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009D57-6-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009D57-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-6-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>6</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-6-nodesc-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>9.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009D57-6-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-6-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-6-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-330099-5-normal'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-330099-5-highlight'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-330099-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-330099-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-330099-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-330099-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-330099-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-330099-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-330099-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-330099-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-10-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3333FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-10-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3366FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3366FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-10-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3366FF-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3366FF-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-5-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3366FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3366FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3366FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3366FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-10-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33FF33-10-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-33FF33-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-6600CC-5-normal'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-6600CC-5-highlight'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-6600CC-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-6600CC-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-6600CC-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-6600CC-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-6600CC-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-6600CC-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-6600CC-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-6600CC-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-6633FF-10-normal'>
+			<LineStyle>
+				<color>ffFF3366</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-6633FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF3366</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-6633FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-6633FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-6633FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-6633FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3366</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-6633FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3366</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-6633FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-6633FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-6633FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-993399-5-normal'>
+			<LineStyle>
+				<color>ff993399</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-993399-5-highlight'>
+			<LineStyle>
+				<color>ff993399</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-993399-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-993399-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-993399-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC0000-10-normal'>
+			<LineStyle>
+				<color>ff0000CC</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000CC</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-CC0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC33CC-5-normal'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC33CC-5-highlight'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-CC33CC-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC33CC-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC33CC-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC66CC-5-normal'>
+			<LineStyle>
+				<color>ffCC66CC</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC66CC-5-highlight'>
+			<LineStyle>
+				<color>ffCC66CC</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-CC66CC-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC66CC-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC66CC-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-5-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-5-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-6-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-6-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-5-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-F8971B-5-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-F8971B-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-F8971B-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-F8971B-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-6-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-F8971B-6-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-F8971B-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F8971B-7-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-F8971B-7-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>11.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-F8971B-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F8971B-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F8971B-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF0000-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-5-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-5-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF6600-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff0066FF</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF6600-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0066FF</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF6600-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF6600-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF6600-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF6666-10-nodesc-normal'>
+			<LineStyle>
+				<color>ff6666FF</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF6666-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ff6666FF</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF6666-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF6666-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF6666-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FFFF00-10-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FFFF00-10-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FFFF00-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FFFF00-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FFFF00-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FFFF00-10-nodesc-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FFFF00-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FFFF00-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FFFF00-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FFFF00-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FFFF00-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FFFF00-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FFFF00-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FFFF00-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FFFF00-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
