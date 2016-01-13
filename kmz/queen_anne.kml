@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Queen Anne Greenway (Upper)</name>
+		<description><![CDATA[Crown of Queen Anne is a City of Seattle Landmark called Queen Anne Boulevard that already has many Greenway characteristics. It is not an Olmsted boulevard, but rather the community's response to John C. Olmsted's 1903 park plan. With minor investments in signage and pedestrian improvements, "the Crown" will be a crown jewel of the city's Neighborhood Greenway system.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>P1 Intersection</name>
+				<description><![CDATA[This is the most dangerous intersection requiring attention. One ought to have a way to stop traffic on Queen Anne Avenue. Goodwill is hard to find here especially for bicyclists. Peds have an easier time.]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.356517,47.629479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection</name>
+				<description><![CDATA[Crossing this intersection works just fine in both directlons for pedestrians on the south side sidewalk. Bicyclists on the road have no problem going east. Going west is treacherous since Queen Anne Drive curves around just here coming from the George Washington Bridge.]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.35555200000002,47.64127800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E Queen Anne loop</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36087,47.63957,0.0 -122.35961,47.63956,0.0 -122.35911000000002,47.64026,0.0 -122.35817000000002,47.64133,0.0 -122.35445000000001,47.64135,0.0 -122.35299000000002,47.6399,0.0 -122.35085,47.63996,0.0 -122.3502,47.64088,0.0 -122.34838,47.64071,0.0 -122.34847,47.6319,0.0 -122.34967000000002,47.63079,0.0 -122.35119599999999,47.629667000000005,0.0 -122.3531,47.62887,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>S Queen Anne loop</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35304100000002,47.628857,0.0 -122.35458599999998,47.62897300000001,0.0 -122.35587399999999,47.62962400000001,0.0 -122.36389899999999,47.629609,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>SW Queen Anne loop</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36394,47.62962000000001,0.0 -122.36647,47.62963,0.0 -122.367461,47.630723,0.0 -122.36784700000001,47.631981,0.0 -122.36766999999999,47.63456000000001,0.0 -122.366281,47.634988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>West Queen Anne loop</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3663,47.63493,0.0 -122.366281,47.63954300000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NW Queen Anne loop</name>
+				<description><![CDATA[Northwest section of Queen Anne greenway.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36097,47.63958,0.0 -122.36310000000002,47.64104,0.0 -122.36362000000001,47.64307,0.0 -122.36756,47.64321,0.0 -122.367396,47.644516,0.0 -122.36784700000001,47.645803,0.0 -122.36981999999999,47.645830000000004,0.0 -122.37009999999998,47.645528,0.0 -122.37012000000001,47.64499,0.0 -122.37022,47.64331,0.0 -122.37003000000001,47.64086,0.0 -122.36757999999999,47.6407,0.0 -122.36755000000001,47.63958,0.0 -122.3663,47.63957,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection</name>
+				<description><![CDATA[Stop signs on W. McGraw would make this a very safe four-way stop intersection]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36623800000001,47.639311,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-167-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-167-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-167'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-167-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-167-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3333FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

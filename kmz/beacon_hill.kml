@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Beacon Hill Neighborhood Greenway Routes</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>P1 14th Ave Greenway</name>
+				<description><![CDATA[Establishes route to Beacon International School]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.314742,47.575125,0.0 -122.314661,47.575261,0.0 -122.31468800000002,47.575534,0.0 -122.314699,47.575693,0.0 -122.314691,47.575905,0.0 -122.314669,47.576003,0.0 -122.31468000000001,47.576081,0.0 -122.31468600000001,47.576175,0.0 -122.31468600000001,47.576669,0.0 -122.31468800000002,47.576797,0.0 -122.314672,47.576882,0.0 -122.314672,47.577,0.0 -122.31467499999998,47.577749,0.0 -122.31467499999998,47.57855,0.0 -122.314659,47.578751,0.0 -122.314661,47.578997,0.0 -122.31465600000001,47.579328,0.0 -122.314702,47.579484,0.0 -122.314702,47.581029,0.0 -122.31469400000002,47.581845,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection treatment</name>
+				<description><![CDATA[Potential one-way out on south end of 14th Ave S and intersection improvement]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31467499999998,47.581896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 17th Greenway</name>
+				<description><![CDATA[Greenway connector to library]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31074,47.57513,0.0 -122.310791,47.577655,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Forest Greenway</name>
+				<description><![CDATA[Connects neighborhood to library on one of the least steep E-W streets on the hill.  Also connects to Kimball elementary.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31466,47.57775,0.0 -122.31073,47.57774,0.0 -122.31063,47.57785,0.0 -122.31037,47.57787,0.0 -122.30541,47.57784,0.0 -122.305362,47.575085,0.0 -122.30444,47.575078000000005,0.0 -122.303485,47.575071,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection Treatment</name>
+				<description><![CDATA[Improve safety at library crossing]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.310727,47.577742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 Hanford Greenway</name>
+				<description><![CDATA[Connection to 17th/18th Greenway and business district]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31034,47.57507,0.0 -122.312508,47.57512200000001,0.0 -122.31467499999998,47.575129,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Funded Greenway</name>
+				<description><![CDATA[Connection between Georgetown and Jefferson Park.  Links Asa Mercer MS, Maple ES, St. George School, and Cleveland HS.  Greenway to be built in Summer/Fall 2012.]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31469,47.56718,0.0 -122.31473,47.56529,0.0 -122.31604000000002,47.5653,0.0 -122.31607000000001,47.56167,0.0 -122.31689599999999,47.561672,0.0 -122.31714199999999,47.560926,0.0 -122.31715999999999,47.56018,0.0 -122.31718,47.55353,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Funded Greenway</name>
+				<description><![CDATA[Greenway connecting MTS trail to Jefferson Park.  To be built Summer/Fall 2012.]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31034,47.57187,0.0 -122.31022,47.57479,0.0 -122.31035000000001,47.57499000000001,0.0 -122.31035000000001,47.57509,0.0 -122.30845000000001,47.57508,0.0 -122.30893000000002,47.57649,0.0 -122.30923000000001,47.577,0.0 -122.30933,47.57703,0.0 -122.30934,47.57958,0.0 -122.30981000000001,47.57958,0.0 -122.30979,47.58099,0.0 -122.30949,47.58101,0.0 -122.309466,47.589281,0.0 -122.30944999999998,47.58958,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>21st Ave Greenway</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30734,47.589420000000004,0.0 -122.30735,47.58713,0.0 -122.30719,47.58696,0.0 -122.30687000000002,47.5869,0.0 -122.30684,47.58551,0.0 -122.30553,47.5855,0.0 -122.30559,47.58374,0.0 -122.30554999999998,47.58095,0.0 -122.3054,47.57939,0.0 -122.305416,47.577908,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Beacon Ave Centerpath</name>
+				<description><![CDATA[Optimize existing centerpath down Beacon Ave so that it works better for walkers and bikers.]]></description>
+				<styleUrl>#line-0000FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.304955,47.561124,0.0 -122.30461000000001,47.55978,0.0 -122.30327999999999,47.55564,0.0 -122.30246000000001,47.55263,0.0 -122.30126,47.54901,0.0 -122.29894,47.54125,0.0 -122.2983,47.54044,0.0 -122.29521,47.53829,0.0 -122.29202999999998,47.536260000000006,0.0 -122.2904,47.53499,0.0 -122.28915999999998,47.53377,0.0 -122.28829999999999,47.53172,0.0 -122.28803999999998,47.53076,0.0 -122.28778,47.52586000000001,0.0 -122.28759,47.52524,0.0 -122.28718000000002,47.5247,0.0 -122.28399,47.52196,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack</name>
+				<description><![CDATA[To be built in conjunction with Greenway to Geogretown.  Cycletrack provides separated access to Asa Mercer in the high traffic S Dakota/15th area.]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31468600000001,47.567217,0.0 -122.312722,47.567224,0.0 -122.312733,47.567217,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Multi-use Trail</name>
+				<description><![CDATA[Applied for 2012 WSDOT SRTS funding to build this multi-use trail along the 16th Ave S gravel right of way.  Connects school, to park, to neighborhood and Food Forest.]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.312679,47.56721,0.0 -122.31271000000001,47.57148000000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Multi-use Trail</name>
+				<description><![CDATA[600 foot trail to connect Greenways through the park.  Currently there is no sidewalk here so the trail will serve many functions.  Applied for 2012 Opportunity Fund money for design and construction.]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31034,47.571857,0.0 -122.31138000000001,47.57182,0.0 -122.31208000000001,47.57167,0.0 -122.31269,47.571492,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Median refuge</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.31034,47.571879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Median refuge</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.309246,47.575093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cycletrack</name>
+				<description><![CDATA[Connection to Beacon International School along busy section of 14th Ave S.  Connects school to Greenway system.]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.314696,47.586194,0.0 -122.314696,47.58191,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Intersection treatment</name>
+				<description><![CDATA[Connect centerpath across intersection]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.304568,47.559703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection treatment</name>
+				<description><![CDATA[Connect centerpath through intersection]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.30047800000001,47.54639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection treatment</name>
+				<description><![CDATA[Connect centerpath through intersection]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.296294,47.538939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection treatment</name>
+				<description><![CDATA[Improve safety at arterial crossing]]></description>
+				<styleUrl>#icon-111</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.305405,47.57848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Multi-use trail</name>
+				<description><![CDATA[Improve gravel trail connector to Asa Mercer MS]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30641399999999,47.564799,0.0 -122.31083399999999,47.564843,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Jefferson Park Multi-use trail</name>
+				<description><![CDATA[Complete section of multi-use trail to connect Beacon centerpath to Jefferson Park and Greenway system.]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31031399999999,47.571815,0.0 -122.309941,47.571781,0.0 -122.309557,47.571787,0.0 -122.309115,47.571824,0.0 -122.30842800000002,47.571841,0.0 -122.30778999999998,47.569509,0.0 -122.307082,47.567265,0.0 -122.30629600000002,47.564667,0.0 -122.30585800000001,47.563277,0.0 -122.305437,47.562025,0.0 -122.305389,47.561886,0.0 -122.305215,47.561095,0.0 -122.30496,47.561128,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>21st Ave Greenway extension</name>
+				<styleUrl>#line-6600CC-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30538400000002,47.575006,0.0 -122.304955,47.573609,0.0 -122.304461,47.571966,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-111-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-111-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-111'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-111-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-111-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-61-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-10-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-10-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-10-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33FF33-10-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-33FF33-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-6600CC-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-6600CC-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffCC0066</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-6600CC-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-6600CC-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-6600CC-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

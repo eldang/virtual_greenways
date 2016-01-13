@@ -35,7 +35,10 @@ def process_kml(kml):
     
     for layer in layers:
         print("Layer: %s" % (layer.name))
-        segments = layer.features()
+        try:
+            segments = layer.features()
+        except:
+            continue
 
         for segment in segments:
             print "Segment: %s" % (segment.name)
@@ -52,34 +55,44 @@ def process_kml(kml):
     segment_df = pd.DataFrame(segment_records)
     
     return segment_df
+    
 
 def draw_lines(folium_map, segment_df):
     for (index, polyline, difficulty) in segment_df[['polyline', 'difficulty']].itertuples():
         folium_map.line(polyline, line_color=difficulty, line_weight=5)
 
     
-def kml_to_map(coords, kml_file):
-    kml_string = read_kml('doc.kml')
-    print(kml_string)
-
-    k = kml.KML()
-
-    k.from_string(kml_string)
-
+def segments_to_map(coords, segment_df):
     map_osm = folium.Map(location=coords,tiles='Stamen Toner')    
     
-    segment_df = process_kml(k)
-    segment_df.to_csv('greenways.csv')
-    
+    # Copy this by hand to greenways_edited.csv, edit in Open Office, fill in the difficulty codes.
+    # Then re-run the script.
+    segment_df.to_csv('greenways.csv',
+                      columns=['name', 'difficulty_code', 'district', 'difficulty', 'polyline'])
+        
     draw_lines(map_osm, segment_df)
 
     map_osm.create_map(path='osm.html')
+
+def kmls_to_segments(kml_files):
+    first = True
     
+    for kml_file in kml_files:
+        k = kml.KML()
+        k.from_string(read_kml(kml_file))
+        
+        if first:
+            segment_df = process_kml(k)
+            first = False
+        else:
+            segment_df = segment_df.append(process_kml(k)).reset_index(drop=True)
+            
     return segment_df
 
 def csv_to_map(coords, segment_df, csv_file, output_html):
     edited_segment_df = pd.read_csv(csv_file, "\t")
     edited_segment_df['difficulty'] = edited_segment_df['difficulty_code'].map(lambda d: difficulties[d.lower()])
+    segment_df = segment_df.reindex()
     edited_segment_df[['polyline']] = segment_df[['polyline']]
     
     map_osm = folium.Map(location=coords, tiles='Stamen Toner')
@@ -91,5 +104,29 @@ if __name__ == '__main__':
     coords = [47.6131746,-122.4878834] # Seattle
     # coords = [45.5236, -122.6750] # Portland
 
-    segment_df = kml_to_map(coords, 'doc.kml')
-    csv_to_map(coords, segment_df, 'greenways_edited.csv', 'osm2.html')
+    # from http://seattlegreenways.org/neighborhoods/
+    # Download the KML for the maps
+    # Copy the .kmz file to kmz/
+    # unzip <neighborhood>.kmz; mv doc.kml <neighborhood>.kml
+    # eastlake and montlake weren't found on the page
+    kml_files = ['kmz/beacon_hill.kml',
+                 'kmz/central_seattle.kml',
+                 'kmz/west_seattle.kml',
+                 'kmz/rainier_valley.kml',
+                 'kmz/ballard.kml',
+                 'kmz/fremont.kml',
+                 'kmz/queen_anne.kml',
+                 'kmz/wallingford.kml',
+                 'kmz/green_lake.kml',
+                 'kmz/u_district.kml',
+                 'kmz/maple_leaf.kml',
+                 'kmz/ne_seattle.kml',
+                 'kmz/montlake.kml',
+                 'kmz/lake_city.kml',
+                 'kmz/timf_meadowbrook.kml']
+    
+    segments_df = kmls_to_segments(kml_files)
+
+    segments_to_map(coords, segments_df)
+    
+    csv_to_map(coords, segments_df, 'greenways_edited.csv', 'osm2.html')

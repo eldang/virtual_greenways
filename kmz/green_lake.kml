@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Green Lake Greenway Routes</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>P1 - Green Lake Cycle Track--Community Center Segment</name>
+				<description><![CDATA[This connects the North Green Lake Route with the Tangletown Route via the Green Lake Dr. Cycle Track]]></description>
+				<styleUrl>#line-3366FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.329384,47.678397,0.0 -122.328225,47.678354,0.0 -122.32782,47.678364,0.0 -122.327241,47.678458,0.0 -122.32673,47.67863,0.0 -122.32626000000002,47.67894,0.0 -122.32601,47.67922,0.0 -122.32581999999998,47.67968,0.0 -122.32581999999998,47.68001,0.0 -122.32603,47.68052,0.0 -122.32636000000001,47.68086,0.0 -122.32844000000001,47.68217,0.0 -122.32879,47.68235000000001,0.0 -122.32924,47.68249,0.0 -122.32984,47.682610000000004,0.0 -122.33035000000001,47.68264,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Green Lake Cycle Track--North Segment</name>
+				<styleUrl>#line-3366FF-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33928499999999,47.684743,0.0 -122.339215,47.684842,0.0 -122.33910499999999,47.684983,0.0 -122.339049,47.685049,0.0 -122.33893600000002,47.68512200000001,0.0 -122.338566,47.6853,0.0 -122.338362,47.685441,0.0 -122.338314,47.68547,0.0 -122.33815000000001,47.685514000000005,0.0 -122.337914,47.685573,0.0 -122.33765400000001,47.685613,0.0 -122.337375,47.685622,0.0 -122.337163,47.685613,0.0 -122.33696400000001,47.685584,0.0 -122.33674500000001,47.685542,0.0 -122.336533,47.685477,0.0 -122.33629700000002,47.685387,0.0 -122.33608499999998,47.685282,0.0 -122.33588900000001,47.685134,0.0 -122.335741,47.685004,0.0 -122.33560999999999,47.684863,0.0 -122.335406,47.684665,0.0 -122.335095,47.68436,0.0 -122.33495,47.684221,0.0 -122.33455599999999,47.683825,0.0 -122.33434699999998,47.683616,0.0 -122.334035,47.683314,0.0 -122.333837,47.683157,0.0 -122.333649,47.683029,0.0 -122.33341299999998,47.682915,0.0 -122.333258,47.682841,0.0 -122.332987,47.68274,0.0 -122.332818,47.682688,0.0 -122.33256599999999,47.682628,0.0 -122.332225,47.68257,0.0 -122.331943,47.682541,0.0 -122.331729,47.682543,0.0 -122.33148499999999,47.682549,0.0 -122.331219,47.682574,0.0 -122.33093800000002,47.682610000000004,0.0 -122.33073100000001,47.68263,0.0 -122.330495,47.682644,0.0 -122.33035000000001,47.682642,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Green Lake Elementary to McDonald International School and Wallingford</name>
+				<description><![CDATA[Connects Green Lake Community Center to Green Lake Elementary School to McDonald International School to Wallingford.<br><br>The single most important route we've identified through Tangletown. It will create a safer route for McDonald International School and Green Lake Elementary school children, connect the McDonald and Green Lake Schools with several other schools nearby, and connect the Wallingford, Tangletown and Green Lake neighborhoods.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32938500000002,47.678388,0.0 -122.329465,47.677557,0.0 -122.32959000000001,47.67596,0.0 -122.32817000000001,47.67591,0.0 -122.32819000000002,47.66936,0.0 -122.32823999999998,47.6679,0.0 -122.32952,47.6679,0.0 -122.33204999999998,47.66723,0.0 -122.33013,47.66423,0.0 -122.33017000000001,47.6613,0.0 -122.33022999999999,47.6603,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - North Green Lake Route</name>
+				<description><![CDATA[Connects Green Lake with North Seattle Community College and the future pedestrian/bike overpass at Northgate Link station. This route will also create a safe route to Blanchett High School.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33519000000001,47.7014,0.0 -122.33512000000002,47.69778,0.0 -122.33511,47.69232,0.0 -122.33808000000002,47.69234,0.0 -122.33805,47.69051,0.0 -122.33778,47.69051,0.0 -122.33775999999999,47.68872,0.0 -122.33100999999999,47.68864,0.0 -122.331,47.68687,0.0 -122.3304,47.68687,0.0 -122.330355,47.682657,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 53rd/54th West-East Connection</name>
+				<description><![CDATA[This alignment takes advantage of the existing SDOT/SPS walking route, and the existing crosswalk on Meridian. It is the most direct E-W route to the McDonald School. This route would create a safer passage for McDonald International School children.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34006000000001,47.66708,0.0 -122.33907,47.66708,0.0 -122.33847,47.66722,0.0 -122.332023,47.66719,0.0 -122.32952,47.6679,0.0 -122.32560000000001,47.6679,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - West Green Lake-Bagley School Connector</name>
+				<description><![CDATA[Connects Bagley Elementary School to Green Lake and the North Green Lake route. This route also connects with the Greenwood/Phinney alignment on 77th.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33774,47.6887,0.0 -122.34179,47.68872,0.0 -122.34177,47.68477,0.0 -122.339346,47.684766,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Sharrows and McDonald School Crossing of St at Latona</name>
+				<description><![CDATA[This is an extremely important crossing--although it's not associated with a proposed greenway route, it is the crossing for the sharrows on Latona and Thackeray. It is also the location of a designated crossing for McDonald International and will be assigned a crossing guard because of the hazard of crossing at this location. <br><br>The transition of the northbound-southbound couplet of Thackeray and Latona to the south to the two-way street of Latona to the north creates a confusing and dangerous situation for pedestrians and cyclists.<br><br>Two blocks to the west, the eastbound channels transition from one lane to two, and motorists are increasing their speeds and spreading traffic into two lanes as they approach the freeway onramps.<br><br>The combination of sharrows, designated elementary school crossing, the couplet and one of the more highly traveled E-W arterials in north Seattle make at least as important as the crossing of 50th by the P1 route at Sunnyside.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32564,47.664983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - East Green Lake Dr N Crossing</name>
+				<description><![CDATA[Corliss is the least-stress alignment going north from here, but this intersection lacks a light or marked crosswalk.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33035000000001,47.682671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Route Crossing of 50th.</name>
+				<description><![CDATA[50th Street divides the McDonald School reference area. Children well within biking or walking distance need better options for crossings. This intersection is also the location of the P1 route for the Wallingford-Green Lake Greenway alignment. <br><br>Children coming from the Wallingford Co-op Preschool need to cross three streets to get to the Meridian Playground. The traffic signal here is not optimized for pedestrians or bikes--it is a very short signal.<br><br> Because of all the needs this crossing serves--kids from Meridian School, the McDonald International School, the Wallingford Co-op, the P1 Greenway route, and other users of the Meridian Playground, this crossing needs better infrastructure and signaling.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.330574,47.665012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 53rd/Meridian Crossing</name>
+				<description><![CDATA[The north leg of Meridian/53rd is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School. There are no traffic calming measures along Meridian between 50th and 55th. According to the survey done by the McDonald International School, this is considered a dangerous crossing by many parents. This Crossing needs traffic calming.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33362199999999,47.667295,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - N 80th St/Stone Ave N Crossing</name>
+				<description><![CDATA[Critical for Bagley School]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.341776,47.6869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 50th and 5th Ave NE</name>
+				<description><![CDATA[Children walking or biking from the U-District to the McDonald International School will need to cross this dangerous intersection.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32285,47.66499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Densmore Ave N/N 85th St Crossing</name>
+				<description><![CDATA[There is no light at this critical crossing of a heavily-used arterial. An effective greenway will require better pedestrian and bike infrastructure here.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.33793999999999,47.690526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Stone Ave N/Green Lake Dr N Crossing</name>
+				<description><![CDATA[Critical for Bagley School]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34178899999999,47.687671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Corliss Ave N-N 80th St</name>
+				<description><![CDATA[The greenway alignment takes a jog at this intersection. For an effective greenway, better bike and pedestrian crossing infrastructure is needed to cross this hazardous intersection.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.330696,47.686902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 - Winona Ave N/West Green Lake Dr N Crossing</name>
+				<description><![CDATA[Very wide and confusing intersection creates hazards for pedestrians and cyclists here. Great potential for bulbouts or other street-narrowing solutions. Critical for Bagley School connection to Green Lake.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.339914,47.684766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P2 Woodlawn Tangletown Route</name>
+				<description><![CDATA[This is a low-elevation gain route from Green Lake to Wallingford. Although it is an easier ride, and an excellent route for cyclists going between these two neighborhoods, it doesn't serve the Tangletown business district or the McDonald International School.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32965000000002,47.67596,0.0 -122.33145,47.67596,0.0 -122.33146000000002,47.67591,0.0 -122.33268000000001,47.67485,0.0 -122.33336,47.674290000000006,0.0 -122.33374,47.67411,0.0 -122.33792,47.67058,0.0 -122.33798,47.67018,0.0 -122.33799000000002,47.66870000000001,0.0 -122.33847,47.66870000000001,0.0 -122.33847,47.66577,0.0 -122.33638,47.66577,0.0 -122.33641,47.66212,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P2 - Green Lake Cycle Track--Southeast Segment</name>
+				<description><![CDATA[The proposed two way cycle track would be a loop around Green Lake that would either be on the road (lake side of Green Lake Way or Dr) or on a segregated trail near Aurora.  This route would connect with many of the proposed neighborhood connectors (e.g., Ravenna, 77th, etc.).  Ideally, the cycle track would be separated from car traffic with some variety of barrier.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32939,47.6784,0.0 -122.33048,47.67844,0.0 -122.33080000000001,47.67842,0.0 -122.33131000000002,47.67829,0.0 -122.33178,47.67805,0.0 -122.33208,47.67773,0.0 -122.3322,47.67748,0.0 -122.3326,47.67621,0.0 -122.33273,47.676,0.0 -122.33306000000002,47.67567,0.0 -122.33355000000002,47.67532,0.0 -122.33447,47.67478,0.0 -122.33718000000002,47.6725,0.0 -122.33764000000001,47.67225,0.0 -122.33847,47.67194,0.0 -122.33937,47.67167,0.0 -122.33977,47.6714,0.0 -122.34096999999998,47.67158,0.0 -122.34239000000001,47.67129,0.0 -122.3426,47.67056,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake Cycle Track--Northwest Segment</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33927000000001,47.68473000000001,0.0 -122.34011,47.68319,0.0 -122.34038,47.68286,0.0 -122.34062,47.68264,0.0 -122.34101,47.68238,0.0 -122.34157999999998,47.68212,0.0 -122.34340999999999,47.68169,0.0 -122.34415,47.68137,0.0 -122.34415,47.68092000000001,0.0 -122.34425700000001,47.68074500000001,0.0 -122.344544,47.680438,0.0 -122.34478,47.68008,0.0 -122.34507000000002,47.67931,0.0 -122.34513,47.67892,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake Cycle Track--Southwest Segment</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.345129,47.67891,0.0 -122.345161,47.67874900000001,0.0 -122.345204,47.678502,0.0 -122.345239,47.678325,0.0 -122.34530599999998,47.678056,0.0 -122.34549700000001,47.677555,0.0 -122.345558,47.677427,0.0 -122.345633,47.67729,0.0 -122.34571099999998,47.677182,0.0 -122.34582100000002,47.677012,0.0 -122.34591199999998,47.676871,0.0 -122.345998,47.676735,0.0 -122.346105,47.676578,0.0 -122.346205,47.676398,0.0 -122.34626599999999,47.676268,0.0 -122.346336,47.676127,0.0 -122.34637600000002,47.675975,0.0 -122.34640099999999,47.67573,0.0 -122.34633700000002,47.675527,0.0 -122.34640600000002,47.675469,0.0 -122.346481,47.675383,0.0 -122.346481,47.675271,0.0 -122.346438,47.675188,0.0 -122.34643300000002,47.675072,0.0 -122.346301,47.674872,0.0 -122.346081,47.674622,0.0 -122.34581,47.674373,0.0 -122.345607,47.674176,0.0 -122.345376,47.674025,0.0 -122.345071,47.673801,0.0 -122.344727,47.673588,0.0 -122.344432,47.673309,0.0 -122.344228,47.673053,0.0 -122.34391700000002,47.672547,0.0 -122.34375599999998,47.672157,0.0 -122.343676,47.67176,0.0 -122.34363800000001,47.671464,0.0 -122.34356300000002,47.67130100000001,0.0 -122.343456,47.671164,0.0 -122.34327299999998,47.671008,0.0 -122.34305900000001,47.67081,0.0 -122.342689,47.6706,0.0 -122.342592,47.670553,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Tangletown-Green Lake Connector</name>
+				<description><![CDATA[Connects Tangletown and Green Lake well with a more direct route.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33194700000001,47.667149,0.0 -122.334221,47.670532,0.0 -122.33602100000002,47.670849,0.0 -122.33765400000001,47.672295,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>1st Ave Alignment</name>
+				<description><![CDATA[1st Ave NE, north of 50th, to 54th Street was discussed as a potential greenway route.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32827,47.664959,0.0 -122.3283,47.666012,0.0 -122.328522,47.66637,0.0 -122.328468,47.666458,0.0 -122.328613,47.666519,0.0 -122.329529,47.6679,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake to Link Station and Roosevelt HS</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.324751,47.679042,0.0 -122.323635,47.679258,0.0 -122.32270199999999,47.679497,0.0 -122.321436,47.678081,0.0 -122.320041,47.676578,0.0 -122.31739100000001,47.676571,0.0 -122.31568500000002,47.676564,0.0 -122.31435500000002,47.676557,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connection to Greenwood/Phinney Ridge</name>
+				<description><![CDATA[This connects Green Lake to the Greenwood/Phinney route on Dayton.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34513100000001,47.678917,0.0 -122.34559000000002,47.67889,0.0 -122.34563,47.6787,0.0 -122.3489,47.67869,0.0 -122.35261000000001,47.67874,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Green Lake to Zoo Connector</name>
+				<description><![CDATA[This is a potential route to connect Green Lake to one of the old Woodland Park pedestrian overpasses, and then to the zoo entrances.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34260200000001,47.670562,0.0 -122.34273100000001,47.670429,0.0 -122.34284299999999,47.670355,0.0 -122.34296999999998,47.67032,0.0 -122.34309,47.6703,0.0 -122.34321,47.67031,0.0 -122.343348,47.670365,0.0 -122.34368000000002,47.67059,0.0 -122.34387000000001,47.67063,0.0 -122.3444,47.67057,0.0 -122.34508000000001,47.67064,0.0 -122.34609,47.67065000000001,0.0 -122.34627,47.67071,0.0 -122.34667000000002,47.67051,0.0 -122.34681,47.67004,0.0 -122.34699,47.66993,0.0 -122.34752000000002,47.66993,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Zoo Connector</name>
+				<description><![CDATA[There is a dirt trail along the eastern edge of the Woodland Park Zoo, between the zoo and Aurora Ave. There is potential here to create a greenway to connect Green Lake to the main zoo entrance.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.35035,47.665929000000006,0.0 -122.350039,47.665922,0.0 -122.34993200000001,47.665958,0.0 -122.349942,47.666189,0.0 -122.349921,47.666334,0.0 -122.34985600000002,47.666471,0.0 -122.349749,47.666529,0.0 -122.349513,47.666608,0.0 -122.349374,47.666673,0.0 -122.349234,47.66675300000001,0.0 -122.34908400000002,47.666818,0.0 -122.348945,47.66684,0.0 -122.348837,47.666796000000005,0.0 -122.348719,47.66663,0.0 -122.34856899999998,47.6665,0.0 -122.34834399999998,47.66658,0.0 -122.34798999999998,47.666572,0.0 -122.34776400000001,47.666637,0.0 -122.34757100000002,47.666652,0.0 -122.34755,47.668292,0.0 -122.347528,47.669932,0.0 -122.34755,47.671716,0.0 -122.348483,47.671731,0.0 -122.34995299999999,47.671745,0.0 -122.351423,47.671738,0.0 -122.35141200000001,47.671492,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Northgate Overpass Connector</name>
+				<description><![CDATA[Creates a short link to the possible pedestrian/bike overpass to Northgate.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3352,47.70141000000001,0.0 -122.33386,47.70143,0.0 -122.33292500000002,47.701437,0.0 -122.33228099999998,47.702296,0.0 -122.32886900000001,47.702275,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Library Connection</name>
+				<description><![CDATA[Discussed. This may be redundant.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.329376,47.67878,0.0 -122.329498,47.67905,0.0 -122.3293,47.67934,0.0 -122.32919300000002,47.67976,0.0 -122.32914000000001,47.6805,0.0 -122.328979,47.68122100000001,0.0 -122.32882700000002,47.681278,0.0 -122.328102,47.681198,0.0 -122.32762900000002,47.681519,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>1st Ave Alignment</name>
+				<description><![CDATA[1st Ave NE was discussed as a potential greenway alignment. A well-designed crossing at 50th could be a great benefit to cyclists and pedestrians, but the Sunnyside alignment directly serves more schools.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.328308,47.660286,0.0 -122.328255,47.664963,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Light Rail Connector</name>
+				<description><![CDATA[E-W connection to Roosevelt Light Rail station and  the NE Seattle P1 Route on Brooklyn. This route parallels the NE Seattle route on 62nd, but this alignment would make a better connection from NE Seattle to Green Lake. Uses the hidden walkway from 63rd-Ravenna.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32822999999999,47.67443,0.0 -122.32173,47.67434,0.0 -122.32156,47.67444,0.0 -122.32147,47.6747,0.0 -122.32080100000002,47.674902,0.0 -122.320125,47.674187,0.0 -122.31434000000002,47.67415,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>East Green Lake to U District</name>
+				<description><![CDATA[This route connects Green Lake to the University District 8th Ave alignment.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32807,47.6759,0.0 -122.32228,47.67586,0.0 -122.32006000000001,47.67335,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>50th Street Connection to University District</name>
+				<description><![CDATA[This is a very tough street, but it is one of the few current connections to the U-District.<br><br>This alignment connects the sharrows on Latona/Thackeray to the alignments in the University District.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.325595,47.6679,0.0 -122.325599,47.667201,0.0 -122.32562000000001,47.666464,0.0 -122.32562000000001,47.665734,0.0 -122.32562999999999,47.66498,0.0 -122.32068,47.66494,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connection to North Interurban Route</name>
+				<description><![CDATA[This alignment connects E-W from the North Green Lake alignment to the Greenwood/Phinney North Interurban alignment.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33526,47.701415,0.0 -122.34192,47.70141000000001,0.0 -122.35058000000001,47.70144,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Woodland Park to 53rd St</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34289,47.67033,0.0 -122.34289,47.66863,0.0 -122.3426,47.66832,0.0 -122.34241000000002,47.66768,0.0 -122.34223000000001,47.66753,0.0 -122.34038100000001,47.667537,0.0 -122.34038,47.66707,0.0 -122.34005000000002,47.66707,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Woodland Park Ave to Woodland Park</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34258,47.66815,0.0 -122.34279,47.66721,0.0 -122.343,47.66681,0.0 -122.34322999999999,47.66661,0.0 -122.34345,47.66651,0.0 -122.34351000000001,47.66636,0.0 -122.34420000000001,47.66582,0.0 -122.344447,47.665561,0.0 -122.34456000000002,47.6653,0.0 -122.34455,47.66505,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Maple Leaf Connector</name>
+				<description><![CDATA[Connects P1 Green Lake route to Maple Leaf greenway.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.335103,47.69413300000001,0.0 -122.333795,47.694129,0.0 -122.333778,47.69379,0.0 -122.33235200000001,47.69379,0.0 -122.33111200000002,47.693779,0.0 -122.331102,47.69466,0.0 -122.33111200000002,47.695917,0.0 -122.328435,47.695895,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>N 90th St Connector to Greenwood Greenway</name>
+				<styleUrl>#line-330099-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.33509399999998,47.694137,0.0 -122.336467,47.694144,0.0 -122.337819,47.694151,0.0 -122.33917100000001,47.69418,0.0 -122.339986,47.694173,0.0 -122.340265,47.694194,0.0 -122.341338,47.694173,0.0 -122.341874,47.694187,0.0 -122.34238900000001,47.694187,0.0 -122.343484,47.69418,0.0 -122.34456699999998,47.694209,0.0 -122.347249,47.694202,0.0 -122.349921,47.694216,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Connector to Phinney/Greenwood Greenways</name>
+				<description><![CDATA[Utilizes existing light at 77th and Aurora.  Ideally, additional traffic calming infrastructure on 77th would be beneficial.]]></description>
+				<styleUrl>#line-330099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34176500000001,47.684777000000004,0.0 -122.34986,47.68479,0.0 -122.34976000000002,47.68479,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P2 - Crossing of Green Lake Dr. at 53rd</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.340059,47.667082,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The east leg of 1st/55th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School. <br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing. There are not even curb cuts here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328186,47.66861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The north leg of 1st/54th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.  <br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing. There are not even curb cuts here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32829299999999,47.667923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[Latona/55th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.325553,47.667959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The south leg of Meridian/63rd is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>With what is essentially six legs, this intersection can be confusing and hazardous. There is a lot of space in the traveled way for lane reduction and potential for rechannelization of some wide intersections.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.333565,47.673939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SPS/SDOT pedestrian crossing</name>
+				<description><![CDATA[The east leg of 1st/56th is specified in the SDOT/SPS walking plan as a crosswalk for the McDonald School.<br><br>Because of the increased traffic from school buses, parent vehicles and McDonald School staff vehicles when the McDonald School opens, this is a very important crossing.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328148,47.669342,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65th St/1st Ave Crossing</name>
+				<description><![CDATA[The east leg of 65th/1st is specified in the SDOT/SPS walking plan as a crosswalk for McDonald International School and Greenlake Elementary School.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.328003,47.675945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Greenway Route Crossing of 50th St at 1st Ave.</name>
+				<description><![CDATA[Very good candidate for at least a pedestrian/bike activated traffic signal. Currently without a signal, this small commercial district and potential greenway crossing is hazardous to cyclists and pedestrians.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32827899999998,47.664968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aurora/100th Crossing</name>
+				<description><![CDATA[Investigate conditions here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34462999999998,47.701423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 82nd St/Wallingford Ave N Crossing</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.336411,47.688746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 88th St/Wallingford Ave N Crossing</name>
+				<description><![CDATA[Little ped/cycle infrastructure here. A crossing here will require ped/bike improvements.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.336446,47.69233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N 92nd St/Burke Ave N.</name>
+				<description><![CDATA[Cul-de-sac on the south leg of this intersection may need a cut-through for bikes. Otherwise, there are good crosswalks at this 3-way stop.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.335119,47.695967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Green Lake Way N/Sunnyside Ave N</name>
+				<description><![CDATA[There is a pedestrian-activated signal here.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32933,47.678435,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-330099-5-normal'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-330099-5-highlight'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-330099-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-330099-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-330099-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-330099-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-330099-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff990033</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-330099-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-330099-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-330099-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-10-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3366FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3366FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-10-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3366FF-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3366FF-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

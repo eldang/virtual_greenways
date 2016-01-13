@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Montlake Destination Based Planning</name>
+		<description><![CDATA[The Montlake area offers a convergent street and trail system (one of 4 Northat is in need of rationalization in the context of the SR520 highway reconstruction.  It serves local residents as well as commuters going to and from the UW and soon the Rail Station.  It is a highly congested area that is both rich in terms of its features (Olmsted Parks, Arboretum, Waterfront, golf and sports fields), and in terms of transportation challenges.  Pedestrians and Bicyclists have not been considered seriously by WSDOT resulting in awkward and dangerous intersections at SR520, and higher pressure on current arterials and sub-arterials that will make walking and biking more dangerous in Montlake itself.  The wealth of green space, access to the railways and bus system make Montlake a transportation resource as well as one of the major destination for cyclists and pedestrians from the entire greater downtown and UW areas.  Greenways and other bike lanes in Montlake are of city and region importanc]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>P1 SR2S 23rd/22nd Ave Greenway</name>
+				<description><![CDATA[Montlake Elementary depends on this route for students coming from the south and north.  Also important for through commuters coming from Capitol Hill going to UW and connecting to the Eastside.  This is the first route that needs to be built and already has support from the residents on both sides of the street.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30375,47.64343,0.0 -122.30381,47.63952,0.0 -122.30339,47.63932,0.0 -122.30287,47.6378,0.0 -122.30224999999999,47.63678,0.0 -122.30229400000002,47.635567,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 24th &amp; E McGraw St SR2S intersection</name>
+				<description><![CDATA[This intersection needs the ability for all kids from east of 24th Ave to get to school at this light.  It's a known issue with both the district and SDOT, but since the road is WSDOT run, it's hard to get an improvement here.  All pedestrians need safe passage and the technology is available now to make it work.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.302052,47.640277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection</name>
+				<description><![CDATA[High volume park-to-park connector without safe passage at Boyer.  Existing light at Boyer is unsafe and inaccessible for Interlaken cyclists and inconvenient for pedestrians.  Making the existing painted pass-through median island into concrete would solve this shortcoming.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.301629,47.634569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 Portage Bay Trail on SR520</name>
+				<description><![CDATA[Super important connection not only to reconnect the neighborhood, but also for connecting the entire region.  It's the equivalent of the short bridge trail from Mercer Island to Beaux Arts on I-90.  Without it, the regional network will be severely crippled.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30353799999999,47.644632,0.0 -122.30986,47.64324,0.0 -122.31295000000001,47.64321,0.0 -122.32027,47.64269,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Second Bascule Montlake Cut Bridge</name>
+				<description><![CDATA[There is currently no safe route for bicycles to cross the Montlake cut.  Bikes currently share a narrow sidewalk with pedestrians on the old Montlake Bridge without any protection from the roadway.  With the new light rail station and transit connections, this sidewalk will become immediately unusable and significantly more dangerous than it is today.  A solution is needed in concert with the construction of the light rail station.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.305534,47.650689,0.0 -122.30394600000001,47.648159,0.0 -122.303882,47.647017,0.0 -122.30351700000001,47.644617000000004,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Path under I-5 and Lid </name>
+				<description><![CDATA[Connections to Eastlake and SLU/Downtown via Franklin.]]></description>
+				<styleUrl>#line-FF0000-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32061900000001,47.642666000000006,0.0 -122.32392,47.64307,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Federal to 520 trail connector</name>
+				<description><![CDATA[DELMAR LID Path needs to roll right off the end of Federal onto the 520 bike trail.]]></description>
+				<styleUrl>#line-FF0000-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31897,47.642,0.0 -122.318945,47.642767,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>520 Underpass Bill Dawson trail</name>
+				<description><![CDATA[Connects Interlaken, Capitol Hill to UW via Montlake.  Path used for recreation and commuting to and from UW]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.3139,47.64214,0.0 -122.3124,47.64104,0.0 -122.30798,47.64103,0.0 -122.30752,47.64179,0.0 -122.307,47.64247,0.0 -122.30669000000002,47.64393,0.0 -122.30529,47.64441,0.0 -122.30497000000001,47.64458,0.0 -122.304912,47.645709,0.0 -122.30473,47.64666,0.0 -122.30461000000001,47.64693,0.0 -122.30459,47.64755,0.0 -122.3048,47.64784,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Transit Center</name>
+				<styleUrl>#icon-25-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.303495,47.6444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 intersection. Interlaken staircase entrance</name>
+				<description><![CDATA[Main access point for Montlakers entering Interlaken Park or walking to 19th Ave E restaurants and cafes.  This staircase is also the main access to Montlake for Capitol Hill residents  commuting to the UW on foot or on bicycle.  The Boyer Clinic young patients would love to use it more often but the absence of a marked crosswalk and the fact that the staircase doesn't have a ramp allowing passage for multi-kid strollers makes it impossible.  The kids are not routed through the 24th/Interlaken intersection because it is too dangerous.  Bicyclists (commuters and casual users cross Boyer at 23rd Ave E and user the S sidewalk of Boyer and then the W sidewalk of 24th as a bike lane for lack of better option.  A ramp replacing the staircase would solve the problem.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.30279300000001,47.63578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Access to Interlaken Park</name>
+				<description><![CDATA[This portion of Interlaken Blvd is open to cars.  It is however mostly a bike road.  Very popular amongst cyclists looking for a NW to SE route away from cars.  Truly a perfect example of a well planned bike road.  Very popular amongst residents who can use it to circumnavigate Montlake via Interlaken Blvd, the Arboretum paths, the footpaths along the ship canal, the Bill Dawson trail.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29708000000001,47.63168,0.0 -122.29768000000001,47.631612,0.0 -122.297691,47.63253,0.0 -122.29871000000001,47.633325,0.0 -122.299826,47.633289,0.0 -122.30055600000001,47.63365100000001,0.0 -122.300963,47.634526,0.0 -122.30196100000002,47.634576,0.0 -122.30379,47.63575,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>W access Interlaken Park</name>
+				<description><![CDATA[Seattle's original Bike road. Very popular commuting route for bicyclists and favorite route for joggers and walkers.  This perfectly flat bike route is an ideal shortcut to many destinations.  Car traffic on this route should be limited to access by residents, deliveries and access to schools (TOPS, Seattle Prep, Stevens Elementary).]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30887000000001,47.63715,0.0 -122.30965400000001,47.63736,0.0 -122.310791,47.636492,0.0 -122.311285,47.636897,0.0 -122.310941,47.638054,0.0 -122.31154200000002,47.638762,0.0 -122.31276499999998,47.638603,0.0 -122.31403100000001,47.638979,0.0 -122.315297,47.640063,0.0 -122.316005,47.641625000000005,0.0 -122.317078,47.641979,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Interlaken Blvd Bike &amp; ped only</name>
+				<description><![CDATA[High volume corridor for commuters and recreational walkers.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.308854,47.63711700000001,0.0 -122.30855,47.63633,0.0 -122.30864,47.635690000000004,0.0 -122.30821,47.63584,0.0 -122.30750000000002,47.63644,0.0 -122.30656,47.63598,0.0 -122.30585,47.63595,0.0 -122.30566000000002,47.63579,0.0 -122.3057,47.63543000000001,0.0 -122.30542000000001,47.63532,0.0 -122.30441,47.63604,0.0 -122.30387999999999,47.63587,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Seattle Prep parking Access lot and public trail concept</name>
+				<styleUrl>#line-FFCC00-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31632,47.64197000000001,0.0 -122.31704,47.64215,0.0 -122.31747,47.64265,0.0 -122.31649000000002,47.6424,0.0 -122.3169,47.64275000000001,0.0 -122.31623899999998,47.642579000000005,0.0 -122.316673,47.643318,0.0 -122.31667000000002,47.643318,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Capitol Hill Delmar lid to 13th connector bike ped path</name>
+				<description><![CDATA[Seattle Prep wants to put a multi-use trail through their property to connect North Capitol Hill to Interlaken Park.]]></description>
+				<styleUrl>#line-000099-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.317491,47.642217,0.0 -122.31688999999999,47.641758,0.0 -122.31611799999999,47.641542,0.0 -122.31604300000001,47.640826,0.0 -122.31603700000001,47.640822,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Existing connector path Interlaken to 13th</name>
+				<description><![CDATA[Perfect bypass of the entire hill for anyone going on bicycle or foot from Montlake, Madison Valley  to Capitol Hill or downtown.  No HILL!]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31515199999998,47.639955,0.0 -122.315222,47.639814,0.0 -122.31551700000001,47.639843,0.0 -122.31571600000001,47.640049,0.0 -122.315721,47.640291,0.0 -122.315785,47.640548,0.0 -122.315946,47.640696,0.0 -122.316032,47.640768,0.0 -122.316032,47.640764,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Boyer to Interlaken Connector</name>
+				<description><![CDATA[Bike route for serious cyclists in a hurry to get up to N Capitol Hill.  Going North, it is a big time saver.  The portion of 19 Ave E south of Boyer is extremely steep but doesn't stop hard-core biking commuters.  More conservative cyclists use 23rd Ave E.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30882,47.63717,0.0 -122.30729300000002,47.637931,0.0 -122.30724000000001,47.638668,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Blaine-19th AveE Greenway route</name>
+				<description><![CDATA[Greenway route connecting 22nd Ave E Interlaken Staircase and Boyer Children's clinic to Montlake Playfields, Playground, Community Club]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30293999999999,47.6359,0.0 -122.30292,47.63656,0.0 -122.30730000000001,47.63874,0.0 -122.307304,47.639564,0.0 -122.30897800000001,47.639564,0.0 -122.308956,47.64097400000001,0.0 -122.30799000000002,47.64101,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>N end of the 23rd/22nd/Montlake Blvd Greenway</name>
+				<description><![CDATA[This neighborhood greenway doubles up as a major ped and bicycle commuting route for residents of Montlake and the East side of Capitol Hill.]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.303882,47.643576,0.0 -122.304536,47.64427,0.0 -122.30490099999999,47.645123,0.0 -122.304794,47.646294,0.0 -122.30473,47.64666,0.0 -122.30459,47.64766,0.0 -122.30464299999998,47.647841,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>SR520 Connector bikeway</name>
+				<styleUrl>#line-FF0000-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.32237800000001,47.637172,0.0 -122.327142,47.628264,0.0 -122.32903,47.627773,0.0 -122.32924499999999,47.623087,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Capitol Hill Greenway and commuting route</name>
+				<styleUrl>#line-009900-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31897999999998,47.64191,0.0 -122.31911700000002,47.62877,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Commuting and Greenway route</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30376000000001,47.63566,0.0 -122.30351700000001,47.632357,0.0 -122.303495,47.626905,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>N end major bicycle commuting and recreational route</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.304515,47.647834,0.0 -122.30444,47.647306,0.0 -122.30454699999999,47.646504,0.0 -122.30442900000001,47.645543,0.0 -122.302068,47.645514,0.0 -122.30206999999999,47.64509,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>25th 26th ave Commuting and recreational route</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30205,47.64499,0.0 -122.30203000000002,47.64385,0.0 -122.30214,47.64376,0.0 -122.30214,47.6435,0.0 -122.30117,47.64349,0.0 -122.30112999999999,47.64312,0.0 -122.30021000000002,47.64315,0.0 -122.300363,47.64135,0.0 -122.30032,47.63952,0.0 -122.29935,47.63948,0.0 -122.29950000000001,47.63375,0.0 -122.29998999999998,47.63323,0.0 -122.29967000000002,47.63229,0.0 -122.29912999999999,47.63225,0.0 -122.29900000000002,47.63215,0.0 -122.29898000000001,47.62959,0.0 -122.29701000000001,47.62884,0.0 -122.29675,47.62809,0.0 -122.29637,47.62739,0.0 -122.29506,47.62667,0.0 -122.29510000000002,47.62525,0.0 -122.29551000000001,47.62512,0.0 -122.29521,47.6243,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Interlaken Park Staircase</name>
+				<description><![CDATA[Needs to be turned into an ADA compliant rmap to allow Boyer Clinic's Children to safely access Interlaken Bld on their daily walks. This will then integratet he 23rd Ave and Blaine greenways with the bike route system and recreational paths of Interlaken Park.]]></description>
+				<styleUrl>#line-CC9933-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.302755,47.635769,0.0 -122.303109,47.635914,0.0 -122.30364600000001,47.635791,0.0 -122.303635,47.635791,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>26th to Interlaken connection</name>
+				<description><![CDATA[Already used by pedestrians.  Would eliminate the private/public sidewal in the alley north and below the small Interlaken viaduct.]]></description>
+				<styleUrl>#line-CC9933-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.300051,47.633181,0.0 -122.30018,47.633405,0.0 -122.30018,47.633412,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Azalea Way promenade</name>
+				<styleUrl>#line-66FF99-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29534,47.63999,0.0 -122.29643,47.63864,0.0 -122.29650000000001,47.63587,0.0 -122.29667000000002,47.63430000000001,0.0 -122.295663,47.6324,0.0 -122.29605000000001,47.631851,0.0 -122.297165,47.631706,0.0 -122.297165,47.631692,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>East-West Greenway</name>
+				<description><![CDATA[Serves the entrances of the 2 main parks, the shopping district, the library and the Elementary School.  Crosses a dangerous arterials, and is the only east-west route to school and the library  for residents of East Montlake.]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.29864000000002,47.63951,0.0 -122.30033999999999,47.63952,0.0 -122.3003,47.64023,0.0 -122.30729300000002,47.640302,0.0 -122.30735799999998,47.639593,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 31</name>
+				<styleUrl>#line-66FF99-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.306693,47.64761,0.0 -122.303131,47.647523,0.0 -122.302959,47.647798,0.0 -122.30293799999998,47.647769,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Gerry Conley's bikeway SR520 connector</name>
+				<description><![CDATA[Connector SR520 to downtown and South Lake Union]]></description>
+				<styleUrl>#line-FF0000-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.31905199999999,47.64268,0.0 -122.32044700000002,47.642333,0.0 -122.32119800000001,47.642145000000006,0.0 -122.32194899999999,47.641625000000005,0.0 -122.322292,47.64075700000001,0.0 -122.322464,47.638097,0.0 -122.32244300000002,47.637229,0.0 -122.322421,47.637201,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 38</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.30719,47.63241,0.0 -122.305984,47.633181,0.0 -122.305984,47.634222,0.0 -122.30510500000001,47.63493,0.0 -122.30444,47.63467,0.0 -122.30367000000001,47.63576,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-25-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/25-bus.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-25-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/25-bus.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-25-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-25-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-25-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-000099-5-normal'>
+			<LineStyle>
+				<color>ff990000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000099-5-highlight'>
+			<LineStyle>
+				<color>ff990000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000099-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000099-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000099-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009900-5-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009900-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009900-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009900-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3333FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-66FF99-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff99FF66</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-66FF99-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff99FF66</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-66FF99-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-66FF99-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-66FF99-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC9933-5-normal'>
+			<LineStyle>
+				<color>ff3399CC</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC9933-5-highlight'>
+			<LineStyle>
+				<color>ff3399CC</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-CC9933-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC9933-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC9933-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-5-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-5-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF0000-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF0000-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FFCC00-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff00CCFF</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FFCC00-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00CCFF</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FFCC00-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FFCC00-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FFCC00-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

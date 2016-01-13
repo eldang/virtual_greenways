@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Safe Healthy Rainier Valley</name>
+		<description><![CDATA[Safe, healthy routes for walking and biking from Rainier Beach to the Central District.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Rainier Beach Light Rail Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.279291,47.522331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Othello Light Rail Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.28022,47.55225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Columbia City Light Rail Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.292638,47.559355000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 4</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.29787299999998,47.576352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beacon Hill Light Rail Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.311435,47.579276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rainier Avenue South</name>
+				<description><![CDATA[Explore idea of cycletrack here]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.247663,47.511201,0.0 -122.254143,47.515983000000006,0.0 -122.25482900000002,47.517288,0.0 -122.25744700000001,47.519374,0.0 -122.26040799999998,47.520447000000004,0.0 -122.26457100000002,47.519896,0.0 -122.269163,47.51983800000001,0.0 -122.27002100000001,47.52036,0.0 -122.270064,47.523113,0.0 -122.27002100000001,47.535776,0.0 -122.27079399999998,47.539253,0.0 -122.274485,47.54496,0.0 -122.27645899999999,47.546263,0.0 -122.277274,47.550405,0.0 -122.278519,47.552781,0.0 -122.281823,47.554432,0.0 -122.28525599999999,47.558226000000005,0.0 -122.287617,47.561469,0.0 -122.28826,47.564278,0.0 -122.289677,47.568737,0.0 -122.290792,47.569722,0.0 -122.291994,47.570272,0.0 -122.31156299999999,47.595861,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>King Street Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.32791400000002,47.597974,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

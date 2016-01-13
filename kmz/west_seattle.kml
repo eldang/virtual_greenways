@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>West Seattle / brager drive</name>
+		<description><![CDATA[West Seattle currently has several North-South routes mapped out, all in the Delridge district.  Two (21st and 26th) were named as 2012 candidates by the city, while one (highland park) is proposed for future consideration.  East/West routes are tricky in West Seattle due to the steep terrain.  The Brandon Street route has been proposed by some neighbors: it would combine quiet streets with some new staircases through linear parks.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Existing pedestrian route</name>
+				<description><![CDATA[Pedestrian/bicycle connection to Alki trail.  Note that the crossing under the bridge is complicated!]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.362789,47.5702,0.0 -122.362264,47.570171,0.0 -122.362231,47.57079,0.0 -122.36228,47.570967,0.0 -122.36230100000002,47.571756,0.0 -122.36228999999999,47.571752,0.0 -122.36228,47.571749,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 intersection treatment</name>
+				<description><![CDATA[This would be a great place for a protected crossing to a path/cycletrack on the north side of Andover, connecting to the West Seattle Bridge path access.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.365342,47.568357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Existing Pedestrian access</name>
+				<description><![CDATA[Pedestrian connection from Longfellow Creek to Highpoint, via a short unpaved path and long stairway.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.363819,47.546423,0.0 -122.36452700000001,47.546506,0.0 -122.36556800000001,47.546495,0.0 -122.36783199999999,47.546473,0.0 -122.368572,47.546365,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Existing Pedestrian route</name>
+				<description><![CDATA[On street, with a pedestrian-only overpass across the WS highway]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.386794,47.56839,0.0 -122.380035,47.568375,0.0 -122.37617300000001,47.568332,0.0 -122.376151,47.56805700000001,0.0 -122.37355500000001,47.567782,0.0 -122.37306000000001,47.56791,0.0 -122.3728,47.56834,0.0 -122.37162,47.56773,0.0 -122.37076,47.56763,0.0 -122.36543000000002,47.56763,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Low Stress</name>
+				<description><![CDATA[Existing West Seattle Bridge/Alki Bike Path]]></description>
+				<styleUrl>#line-3333FF-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.38160799999999,47.589581,0.0 -122.37568600000002,47.5855,0.0 -122.37294,47.582142000000005,0.0 -122.372382,47.58,0.0 -122.37242500000002,47.578871,0.0 -122.37113700000002,47.576294000000004,0.0 -122.370536,47.571807,0.0 -122.362168,47.571835,0.0 -122.36028,47.572125,0.0 -122.35959300000002,47.571314,0.0 -122.356331,47.570764,0.0 -122.350624,47.570851,0.0 -122.350581,47.571256,0.0 -122.344487,47.57143,0.0 -122.33989499999998,47.572183,0.0 -122.339938,47.5866,0.0 -122.33847900000002,47.588278,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Existing Ped. Stairway</name>
+				<styleUrl>#line-3333FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36084200000002,47.539144,0.0 -122.35952799999998,47.539166,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Existing Stairway</name>
+				<description><![CDATA[Pedestrian connection from Delridge to Pidgeon Point.]]></description>
+				<styleUrl>#line-3333FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36336400000002,47.564705,0.0 -122.362946,47.56477,0.0 -122.36016699999999,47.564785,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 Intersection Treatment</name>
+				<description><![CDATA[Improvements are needed here: drivers often speed on Genesee, and pedestrians have no safe crossing from the neighborhood to the nearby recreation facilities.]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.363663,47.56216400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P1 Pedestrian/Bike Signal</name>
+				<description><![CDATA[To best connect to the Delridge Trail, we envision a signaled bike/ped crossing here.  This would allow users to get to the 26th greenway without having to ride 3 blocks on the wrong side of Delridge .]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.355766,47.561237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21st Greenway: In Progress</name>
+				<description><![CDATA[21st ave greenway.  Mostly flat route from WS bridge to White Center]]></description>
+				<styleUrl>#line-33FF33-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.360812,47.570981,0.0 -122.36107,47.570547,0.0 -122.361177,47.568332,0.0 -122.360147,47.56836100000001,0.0 -122.360169,47.56477,0.0 -122.36053300000002,47.56325,0.0 -122.360169,47.560948,0.0 -122.360104,47.556922,0.0 -122.359976,47.55336,0.0 -122.35980400000001,47.548711,0.0 -122.359568,47.543439,0.0 -122.359589,47.53918,0.0 -122.35495400000002,47.539108,0.0 -122.35506200000002,47.53318300000001,0.0 -122.35506200000002,47.527938,0.0 -122.35512600000001,47.522084,0.0 -122.355148,47.517389,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Future Route: Highland Park Greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34522999999999,47.52438,0.0 -122.34522999999999,47.52591,0.0 -122.34546000000002,47.52602,0.0 -122.34549,47.52645,0.0 -122.34802,47.52646,0.0 -122.34827,47.52636,0.0 -122.34836,47.52651000000001,0.0 -122.34925000000001,47.52654,0.0 -122.34962,47.52735,0.0 -122.3498,47.52743,0.0 -122.34981,47.5281,0.0 -122.34928999999998,47.52831,0.0 -122.34926500000002,47.534153,0.0 -122.34928599999999,47.535428,0.0 -122.34878,47.5356,0.0 -122.34876,47.53723,0.0 -122.34902,47.53757,0.0 -122.34902,47.53897,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Future Route: Highland Park Greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34900700000001,47.538977,0.0 -122.349544,47.539361,0.0 -122.349544,47.540013,0.0 -122.34988700000001,47.54044,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Future Route: Highland Park Greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34988700000001,47.540433,0.0 -122.349962,47.540694,0.0 -122.350091,47.540940000000006,0.0 -122.35008,47.5411,0.0 -122.350209,47.54136,0.0 -122.350187,47.54232400000001,0.0 -122.35024100000001,47.542751,0.0 -122.35239700000001,47.542809,0.0 -122.352569,47.542881,0.0 -122.35250500000001,47.544764,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Future Route: Highland Park Greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.352473,47.544742,0.0 -122.351582,47.544771,0.0 -122.35132499999999,47.544706,0.0 -122.35114200000001,47.544887,0.0 -122.350531,47.545039,0.0 -122.350488,47.545191,0.0 -122.35029499999999,47.545785,0.0 -122.350187,47.549399,0.0 -122.35185000000001,47.5516,0.0 -122.351925,47.552781,0.0 -122.35259100000002,47.553403,0.0 -122.353277,47.553707,0.0 -122.354779,47.553707,0.0 -122.35484399999999,47.555967,0.0 -122.354865,47.556111,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>future route: Highland Park greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.354908,47.556082,0.0 -122.35508000000002,47.556111,0.0 -122.355938,47.555793,0.0 -122.358341,47.555706,0.0 -122.359929,47.557212,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Future Route: Highland Park Greenway</name>
+				<styleUrl>#line-33FF33-2-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.345295,47.524359,0.0 -122.345424,47.51723,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Brandon "green superhighway"</name>
+				<description><![CDATA[This hilly East/West connection would require new staircases, and potentially land acquisition (though the entire right-of-way is owned either by SDOT or SPU).  Neighbors in the North Delridge Neighborhood Council and Delridge District Council are discussing the possibility of funding parts of this through grants.]]></description>
+				<styleUrl>#line-33FF33-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.380335,47.553838,0.0 -122.35770500000001,47.553707,0.0 -122.35513,47.553765,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Existing Ped. Stairway</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.361099,47.546428,0.0 -122.36039100000002,47.546587,0.0 -122.359694,47.546561,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 23</name>
+				<styleUrl>#line-33FF33-10-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.362039,47.569896,0.0 -122.363327,47.56836100000001,0.0 -122.36530100000002,47.568303,0.0 -122.36542900000002,47.560629,0.0 -122.365558,47.546611,0.0 -122.365558,47.545452,0.0 -122.364743,47.545423,0.0 -122.364056,47.545047,0.0 -122.364485,47.544467,0.0 -122.363369,47.541512,0.0 -122.36285400000001,47.539629,0.0 -122.36281199999999,47.539137,0.0 -122.36088,47.539137,0.0 -122.360837,47.539137,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Longfellow Pedestrian Path</name>
+				<description><![CDATA[This is a short section of dirt path that needs improvement for the 26th greenway to link all the way south.]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36349100000001,47.542034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Point 21</name>
+				<styleUrl>#icon-123-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.1954346,47.55521350000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-123-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-123-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-123-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-10-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-10-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3333FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3333FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3333FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3333FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3333FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3333FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-10-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33FF33-10-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-33FF33-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-10-nodesc-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-33FF33-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-33FF33-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-2-nodesc-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-33FF33-2-nodesc-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>3.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-33FF33-2-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-2-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-2-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33FF33-5-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33FF33-5-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-33FF33-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33FF33-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33FF33-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

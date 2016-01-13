@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ballard Greenways -- Potential Route Network</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>NW 77th St</name>
+				<description><![CDATA[This route provides an easy way to climb up to Phinney Ridge from Ballard with very low grades. <br><br>Sunset Hill Park on the West is a popular destination.]]></description>
+				<styleUrl>#line-3366FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.39988999999998,47.685008,0.0 -122.385128,47.685008,0.0 -122.37345500000002,47.685066,0.0 -122.36603,47.685124,0.0 -122.36603,47.684748,0.0 -122.355341,47.684777000000004,0.0 -122.338872,47.684863,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 6th Ave NW</name>
+				<description><![CDATA[This route is a very quiet alternative to the bike lanes on 8th Ave. Traffic volumes are extremely low. This is already close to being a greenway, except there needs to be way-finding signage (because the route weaves a bit) and arterial crossing treatments.]]></description>
+				<styleUrl>#line-FF0000-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36331900000002,47.690656,0.0 -122.36329800000001,47.682567000000006,0.0 -122.36344800000002,47.675993,0.0 -122.363985,47.67593500000001,0.0 -122.363985,47.669448,0.0 -122.362847,47.669462,0.0 -122.36291199999998,47.668682,0.0 -122.363341,47.668754,0.0 -122.363191,47.665069,0.0 -122.363963,47.665055,0.0 -122.36394199999998,47.658942,0.0 -122.364993,47.658971,0.0 -122.36495000000001,47.657757,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NW 83rdSt</name>
+				<styleUrl>#line-3366FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.39572,47.688345,0.0 -122.39582799999998,47.68872,0.0 -122.392995,47.688691,0.0 -122.39306,47.689024,0.0 -122.38756700000002,47.689024,0.0 -122.38756700000002,47.688691,0.0 -122.36990700000001,47.688735,0.0 -122.36829800000001,47.688778,0.0 -122.36831899999999,47.68911,0.0 -122.359607,47.689139,0.0 -122.352548,47.689139,0.0 -122.344565,47.68911,0.0 -122.33797800000002,47.685774,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>P1 - 58th St &amp; 8th Ave NW</name>
+				<description><![CDATA[This intersection is on an already-funded Greenway route, but there is not sufficient fuding]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36606600000002,47.670893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NW 70th St</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.401092,47.679489,0.0 -122.383245,47.679518,0.0 -122.383245,47.679121,0.0 -122.38095899999999,47.679071,0.0 -122.381056,47.679526,0.0 -122.37117499999998,47.679533000000006,0.0 -122.36345,47.679569,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>17th AVE NW</name>
+				<description><![CDATA[This is Central Ballard's main North South greenway route. 17th Ave has a very even, smooth grade compared to 24th Ave. It is also continuous (no bends) compared to 20th Ave. It could potentially connect all the way from Carkeek Park to the Missing Link section of the BGT.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.37894400000002,47.694166,0.0 -122.37898699999998,47.690584,0.0 -122.37890500000002,47.680674,0.0 -122.37894800000001,47.67246800000001,0.0 -122.37894800000001,47.662353,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>28th Ave NW</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.39840600000001,47.690598,0.0 -122.39739799999998,47.689804,0.0 -122.396432,47.688634,0.0 -122.39297700000002,47.686929,0.0 -122.39302,47.686062,0.0 -122.392956,47.677958,0.0 -122.39293800000002,47.670965,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>34th AVE NW</name>
+				<description><![CDATA[This route is provides a quiet way to go from the Ballard Locks or Golden Gardens up into the neighbhorhood. This is already a very quiet street and only needs wayfinding and a crossing treatment at 65th St.]]></description>
+				<styleUrl>#line-0000FF-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.39997300000002,47.684993000000006,0.0 -122.40033700000001,47.684936,0.0 -122.400402,47.683202,0.0 -122.400981,47.681830000000005,0.0 -122.40106699999998,47.677741,0.0 -122.401092,47.672728,0.0 -122.401092,47.670445,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>NW 58th St - FUNDED</name>
+				<description><![CDATA[58th St was chosen as our first priority because it provides a safe East-West route that Ballard sorely lacks. It links Golden Gardens with downtown, and allows for safe passage towards Fremont.]]></description>
+				<styleUrl>#line-33CC00-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.405464,47.672215,0.0 -122.405325,47.672208,0.0 -122.40526,47.672042,0.0 -122.405067,47.672005,0.0 -122.403908,47.670438,0.0 -122.399037,47.670416,0.0 -122.398264,47.670929,0.0 -122.398103,47.670952,0.0 -122.389821,47.670922,0.0 -122.38079000000002,47.670907,0.0 -122.36976000000001,47.670893,0.0 -122.36184200000001,47.670907,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Intersection Treatment</name>
+				<description><![CDATA[85th St is a very busy route in the summer as a quick way for cars to get to Golden Gardens. There is no safe crossing between 15th Ave and 24th Ave.]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.37898300000002,47.690901,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-124-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-124-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-124'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-124-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-124-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0000FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-5-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3366FF-5-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3366FF-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3366FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3366FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3366FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3366FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3366FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-33CC00-5-normal'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33CC00-5-highlight'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-33CC00-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-33CC00-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-33CC00-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-10-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-10-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
