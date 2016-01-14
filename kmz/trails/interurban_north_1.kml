@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Interurban North - Segment 1</name>
+		<description><![CDATA[From 110th to 145th; 110th to 130th is trail, 130th to 145th is cycle track]]></description>
+		<Folder>
+			<name>Directions from 733 North 110th Street, Seattle, WA 98133, USA to 14442-14498 Linden Avenue North, Seattle, WA 98133, USA</name>
+			<Placemark>
+				<name>Directions from 733 North 110th Street, Seattle, WA 98133, USA to 14442-14498 Linden Avenue North, Seattle, WA 98133, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34964999999998,47.70872,0.0 -122.34958000000002,47.70894,0.0 -122.34828000000002,47.7123,0.0 -122.34818,47.71255,0.0 -122.34812,47.71273,0.0 -122.34807999999998,47.71285,0.0 -122.34805,47.71296,0.0 -122.34803,47.71305,0.0 -122.34802,47.71315,0.0 -122.34801000000002,47.71319,0.0 -122.34801000000002,47.71325,0.0 -122.34801000000002,47.71334,0.0 -122.34802,47.71351,0.0 -122.34803,47.71363,0.0 -122.34804000000001,47.71369,0.0 -122.34805,47.71373,0.0 -122.34807999999998,47.71378,0.0 -122.34815,47.71391,0.0 -122.34816999999998,47.71395,0.0 -122.34816999999998,47.71399,0.0 -122.34818,47.71404,0.0 -122.34819000000002,47.71409,0.0 -122.34819000000002,47.71413,0.0 -122.34816,47.7142,0.0 -122.34814,47.71423,0.0 -122.34813000000001,47.71426,0.0 -122.34813000000001,47.7143,0.0 -122.34813000000001,47.71432000000001,0.0 -122.34813000000001,47.71441,0.0 -122.34818,47.71479,0.0 -122.34827,47.71554,0.0 -122.34832,47.71594,0.0 -122.34839,47.71651,0.0 -122.34854,47.71777,0.0 -122.34861,47.71826,0.0 -122.34862000000001,47.71828,0.0 -122.34867000000001,47.71835000000001,0.0 -122.34871000000001,47.71842,0.0 -122.34873000000002,47.71847,0.0 -122.34875,47.7185,0.0 -122.34875,47.71854,0.0 -122.34876,47.71858,0.0 -122.34876999999999,47.71863,0.0 -122.34879,47.71874,0.0 -122.34880000000001,47.71887000000001,0.0 -122.34881,47.71898,0.0 -122.34881,47.71911,0.0 -122.34880000000001,47.71938,0.0 -122.34878,47.71958,0.0 -122.34876,47.71969,0.0 -122.34872,47.72002,0.0 -122.34871000000001,47.7201,0.0 -122.34869,47.72019,0.0 -122.34867999999999,47.72023,0.0 -122.34867000000001,47.72026,0.0 -122.34862000000001,47.72035,0.0 -122.34858000000001,47.72039,0.0 -122.34854,47.72046,0.0 -122.34854,47.72047,0.0 -122.34852999999998,47.72049,0.0 -122.34852,47.72051,0.0 -122.34852,47.72053,0.0 -122.34839,47.72142,0.0 -122.34833,47.72178,0.0 -122.34832,47.72188,0.0 -122.34829,47.72192,0.0 -122.34829,47.72193,0.0 -122.34828000000002,47.72196,0.0 -122.34824,47.72206,0.0 -122.34821,47.72217,0.0 -122.34819000000002,47.72224,0.0 -122.34818,47.72227,0.0 -122.34822000000001,47.72232,0.0 -122.34825999999998,47.72242,0.0 -122.34824,47.72251000000001,0.0 -122.34823,47.72262,0.0 -122.34822000000001,47.7227,0.0 -122.34819000000002,47.72299,0.0 -122.34816,47.72322,0.0 -122.34814,47.72338,0.0 -122.34812,47.7236,0.0 -122.34809,47.72385,0.0 -122.34804000000001,47.72419,0.0 -122.34798,47.72461,0.0 -122.34789,47.72509,0.0 -122.34781,47.72552,0.0 -122.34779000000002,47.72565,0.0 -122.34776,47.72591,0.0 -122.34772,47.72621,0.0 -122.34770000000002,47.72636,0.0 -122.34769,47.72677,0.0 -122.34769,47.72691,0.0 -122.34770000000002,47.72773,0.0 -122.34772,47.72839,0.0 -122.34773,47.72866,0.0 -122.34773,47.72959,0.0 -122.34773,47.72967,0.0 -122.34772,47.72993,0.0 -122.34772,47.730180000000004,0.0 -122.34773999999999,47.73104,0.0 -122.34775,47.73178000000001,0.0 -122.34773,47.73223,0.0 -122.34773,47.73231,0.0 -122.34773,47.73245,0.0 -122.34773,47.73257,0.0 -122.34773,47.73361,0.0 -122.34775,47.73406,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>733 North 110th Street, Seattle, WA 98133, USA</name>
+				<description><![CDATA[733 North 110th Street, Seattle, WA 98133, USA]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34964660000001,47.7087249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14442-14498 Linden Avenue North, Seattle, WA 98133, USA</name>
+				<description><![CDATA[14442-14498 Linden Avenue North, Seattle, WA 98133, USA]]></description>
+				<styleUrl>#icon-ci-2</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.3477513,47.734055100000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-ci-1-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-1-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-2-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-2-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

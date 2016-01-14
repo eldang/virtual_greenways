@@ -130,7 +130,14 @@ if __name__ == '__main__':
                  'kmz/trails/burke_gilman.kml',
                  'kmz/trails/sodo_trail.kml',
                  'kmz/trails/west_seattle_bridge.kml',
-                 'kmz/trails/duwamish_trail.kml']
+                 'kmz/trails/duwamish_trail.kml',
+                 'kmz/trails/cedar_lake.kml',
+                 'kmz/trails/lake_wilderness.kml',
+                 'kmz/trails/soos_creek.kml',
+                 'kmz/trails/i_90_1.kml',
+                 'kmz/trails/i_90_2.kml',
+                 'kmz/trails/interurban_north_1.kml',
+                 'kmz/trails/interurban_north_2.kml']
     
     segments_df = kmls_to_segments(kml_files)
 
