@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bike: Alki Trail</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Bike: Alki Trail (Start)</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.36083000000002,47.572115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bike: Alki Trail</name>
+				<styleUrl>#line-FF0000-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.36083000000002,47.572115,0.0 -122.361066,47.572136,0.0 -122.361688,47.572066,0.0 -122.36208,47.571836,0.0 -122.36245,47.571723,0.0 -122.362756,47.571675,0.0 -122.36439200000001,47.571653,0.0 -122.36512700000002,47.571546,0.0 -122.36542199999998,47.571546,0.0 -122.36573300000002,47.571589,0.0 -122.36628500000002,47.571524,0.0 -122.36685900000002,47.571514,0.0 -122.36738,47.571664,0.0 -122.36779299999999,47.57169600000001,0.0 -122.36938100000002,47.571664,0.0 -122.37037800000002,47.571685,0.0 -122.37048000000001,47.571723,0.0 -122.370518,47.571777,0.0 -122.37050700000002,47.571905,0.0 -122.370437,47.57212,0.0 -122.370437,47.572286,0.0 -122.37048000000001,47.572715,0.0 -122.370529,47.572898,0.0 -122.37051300000002,47.573456,0.0 -122.370593,47.573912,0.0 -122.370572,47.574362,0.0 -122.370625,47.5747,0.0 -122.37073299999999,47.574952,0.0 -122.370915,47.575537,0.0 -122.370942,47.575972,0.0 -122.37106500000002,47.576245,0.0 -122.371333,47.577023,0.0 -122.37151600000001,47.57735,0.0 -122.371644,47.577694,0.0 -122.37180500000001,47.577994,0.0 -122.37216500000001,47.578525,0.0 -122.37229400000001,47.578804000000005,0.0 -122.37235300000002,47.57906100000001,0.0 -122.372358,47.579281,0.0 -122.37228800000001,47.579743,0.0 -122.37228800000001,47.580263,0.0 -122.372358,47.580521,0.0 -122.372632,47.581138,0.0 -122.372878,47.581593,0.0 -122.37306600000001,47.582071,0.0 -122.37371,47.582806,0.0 -122.37386499999998,47.583074,0.0 -122.374332,47.583616,0.0 -122.374547,47.58395900000001,0.0 -122.374917,47.584308,0.0 -122.37535700000001,47.584785000000004,0.0 -122.37538300000001,47.584844,0.0 -122.375684,47.585064,0.0 -122.376033,47.585391,0.0 -122.376151,47.585445,0.0 -122.37622000000002,47.58543400000001,0.0 -122.376306,47.585488,0.0 -122.376489,47.585799,0.0 -122.376778,47.586094,0.0 -122.37750200000002,47.586609,0.0 -122.377744,47.586899,0.0 -122.37830700000002,47.587312,0.0 -122.378393,47.587414,0.0 -122.378817,47.58772,0.0 -122.379423,47.588058,0.0 -122.380126,47.588621,0.0 -122.38057100000002,47.588857000000004,0.0 -122.38093,47.58913,0.0 -122.38139699999999,47.589592,0.0 -122.38154199999998,47.589801,0.0 -122.381842,47.590354,0.0 -122.382009,47.590552,0.0 -122.382035,47.590756,0.0 -122.382191,47.591137,0.0 -122.382465,47.591587000000004,0.0 -122.382647,47.59197400000001,0.0 -122.38293700000001,47.592478,0.0 -122.383779,47.594227,0.0 -122.384149,47.594618000000004,0.0 -122.38451400000001,47.594828,0.0 -122.38533399999999,47.595112,0.0 -122.385581,47.59516,0.0 -122.385978,47.595187,0.0 -122.38663300000002,47.595139,0.0 -122.38740500000002,47.594956,0.0 -122.387684,47.594854,0.0 -122.388231,47.594586,0.0 -122.38846199999999,47.594414,0.0 -122.38902000000002,47.594082,0.0 -122.389449,47.593771,0.0 -122.38994800000002,47.593513,0.0 -122.39028,47.593299,0.0 -122.39062399999999,47.593004,0.0 -122.39098900000002,47.592607,0.0 -122.39156300000002,47.591904,0.0 -122.391718,47.591673,0.0 -122.39215800000001,47.591196000000004,0.0 -122.39237799999998,47.590885,0.0 -122.39268900000002,47.590525,0.0 -122.39349399999999,47.589898,0.0 -122.3941,47.589291,0.0 -122.39489900000001,47.588589,0.0 -122.39588099999999,47.587843,0.0 -122.39633700000002,47.587607,0.0 -122.397222,47.586894,0.0 -122.39856299999998,47.585756,0.0 -122.399963,47.584474,0.0 -122.40191600000001,47.582897,0.0 -122.402576,47.582527,0.0 -122.40360600000001,47.582039,0.0 -122.40456100000002,47.581642,0.0 -122.405725,47.581095,0.0 -122.407897,47.580177,0.0 -122.408675,47.579807,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bike: Alki Trail (End)</name>
+				<description><![CDATA[<img src="http://chart.apis.google.com/chart?&chs=600x350&cht=lxy&chtt=Elevation&chxt=x,y&chxr=0,0,3,0%7C1,-100.0,100.0,25&chco=009A00&chm=B,00AA00,0,0,0&chg=100000,12.5,1,0&chd=e:AAARAhAuA-BOBdBoB2CBCQCcCnCyC9DIDTDiDtD5EFEREcEpE1FDFOFcFtF9GPGfGsG6HLHZHnH1IGISIhIyJEJTJiJzKBKOKcKvLELPLhLwL9MLMXMnM2NFNSNhNtN6OIOTOeOpO1PBPNPaPnP0QBQMQYQkQvQ6RGRURgRsR3SCSQSdSqS3TDTOTdTqT2UEUQUcUpU0U.VJVVVhVsV3WHWWWgWuW-XKXXXlXxX-YLYWYjYxY8ZIZWZhZsZ4aDaOadaqa2bDbQbbbsb2cCcNcacrc2dBdQdddsd5eGeTegeve8fIfVfgfrf8gLgZgog3hEhPhahlhwh7iGiRibimixjBjMjWjhjsj2kAkQkbkok2lGlRlblsl3mCmSmimtm7nGnWnon0n.oPodoqo2pCpPpapmpyp.qNqaqoq2rErQrdrqr3sEsQscsqs4tFtTtitxt.uQueuru6vIvVvjvxv-wLwYwnw0xDxTxjxzyDyQyfyty7zIzVzjzy0A0O0c0q051I1X1m102D2Q2e2r243H3U3h3v394K4Y4m4z5A5N5a5m5x596M6X6h6s637D7O7a7m708C8O8b8n8y9A9L9X9j9u96-G-S-e-q-3.D.O.Z.p.6,riqwp4otoYoYoVoMn-nVmwmamClakpj-jhjmjpjrj0j8kOkfkpkJjTioiIhohKg3gif8fZe8eZd-dYc-clcjdbeufygviDjbkklil6lilBkWjmiehFfkd7cVa9ZvYWW7VvU0UETpTZTGS7SxSmSeSbSbSYSbSjSuS2SzSgSQSARtRgRjRrSASmTOTuUEUUUXUJT2TmTWTGSzSbSDRtRVQqPqOhNeMgLKJhH7GoFlE9EcDxDcDUDZDZDcDZDRDODcDcDGCrCJB4B4BoBLAoAoA9BjB7B-CGCeC0C2CmB-BYBTBzChDUEaFqHIIpJvKPKnK6LKLSLYLYLaLoLqLlLlLoLwL4MAMAMAMAMAL4L1LwLoLgLaLaLaLoL9MQMoNON8OnPUQKQyRbSIS2TcT8UZUsVEVdVyV6V9WFWNWNWIWIWIWKWQWSWSWYWqW9XLXVXmX7YTY5ZcZ0aMasbFbabwcFcVctdOdueReufHfUfZfcfHeUdYcdblaiZfYZXYWzWgWQWIWFWIWSWlW9XTXjX2YJYhY2ZGZEY8Y0YrYeYLX2XeXLXDW4WoWYWKV.V3VvVnVfVfVfVfVfViVqVyV6WCWCWCV6VyViVSVCUqUXT.TsTcTJS5" height="200" width="auto" /><br><br>Created by My Tracks (http://mytracks.appspot.com) on Android.<br><br>Total Distance: 6.24 km (3.9 mi)<br>Total Time: 17:45<br>Moving Time: 17:35<br>Average Pace: 2.84 min/km (4.6 min/mi)<br> Average Moving Pace: 2.82 min/km (4.5 min/mi)<br> Min Pace: 2.15 min/km (3.5 min/mi)<br>Min Elevation: -30 m (-98 ft)<br>Max Elevation: 12 m (39 ft)<br>Elevation Gain: 53 m (173 ft)<br>Max Grade: 8 %<br>Min Grade: -8 %<br>Recorded: Sun Jun 13 12:57:59 PDT 2010<br>Activity type: cycling]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://chart.apis.google.com/chart?&amp;chs=600x350&amp;cht=lxy&amp;chtt=Elevation&amp;chxt=x,y&amp;chxr=0,0,3,0%7C1,-100.0,100.0,25&amp;chco=009A00&amp;chm=B,00AA00,0,0,0&amp;chg=100000,12.5,1,0&amp;chd=e:AAARAhAuA-BOBdBoB2CBCQCcCnCyC9DIDTDiDtD5EFEREcEpE1FDFOFcFtF9GPGfGsG6HLHZHnH1IGISIhIyJEJTJiJzKBKOKcKvLELPLhLwL9MLMXMnM2NFNSNhNtN6OIOTOeOpO1PBPNPaPnP0QBQMQYQkQvQ6RGRURgRsR3SCSQSdSqS3TDTOTdTqT2UEUQUcUpU0U.VJVVVhVsV3WHWWWgWuW-XKXXXlXxX-YLYWYjYxY8ZIZWZhZsZ4aDaOadaqa2bDbQbbbsb2cCcNcacrc2dBdQdddsd5eGeTegeve8fIfVfgfrf8gLgZgog3hEhPhahlhwh7iGiRibimixjBjMjWjhjsj2kAkQkbkok2lGlRlblsl3mCmSmimtm7nGnWnon0n.oPodoqo2pCpPpapmpyp.qNqaqoq2rErQrdrqr3sEsQscsqs4tFtTtitxt.uQueuru6vIvVvjvxv-wLwYwnw0xDxTxjxzyDyQyfyty7zIzVzjzy0A0O0c0q051I1X1m102D2Q2e2r243H3U3h3v394K4Y4m4z5A5N5a5m5x596M6X6h6s637D7O7a7m708C8O8b8n8y9A9L9X9j9u96-G-S-e-q-3.D.O.Z.p.6,riqwp4otoYoYoVoMn-nVmwmamClakpj-jhjmjpjrj0j8kOkfkpkJjTioiIhohKg3gif8fZe8eZd-dYc-clcjdbeufygviDjbkklil6lilBkWjmiehFfkd7cVa9ZvYWW7VvU0UETpTZTGS7SxSmSeSbSbSYSbSjSuS2SzSgSQSARtRgRjRrSASmTOTuUEUUUXUJT2TmTWTGSzSbSDRtRVQqPqOhNeMgLKJhH7GoFlE9EcDxDcDUDZDZDcDZDRDODcDcDGCrCJB4B4BoBLAoAoA9BjB7B-CGCeC0C2CmB-BYBTBzChDUEaFqHIIpJvKPKnK6LKLSLYLYLaLoLqLlLlLoLwL4MAMAMAMAMAL4L1LwLoLgLaLaLaLoL9MQMoNON8OnPUQKQyRbSIS2TcT8UZUsVEVdVyV6V9WFWNWNWIWIWIWKWQWSWSWYWqW9XLXVXmX7YTY5ZcZ0aMasbFbabwcFcVctdOdueReufHfUfZfcfHeUdYcdblaiZfYZXYWzWgWQWIWFWIWSWlW9XTXjX2YJYhY2ZGZEY8Y0YrYeYLX2XeXLXDW4WoWYWKV.V3VvVnVfVfVfVfVfViVqVyV6WCWCWCV6VyViVSVCUqUXT.TsTcTJS5</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.408745,47.57978,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-5-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-FF0000-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-FF0000-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

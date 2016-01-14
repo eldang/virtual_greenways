@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>West Seattle Bridge Route</name>
+		<description><![CDATA[For more information, see: https://sites.google.com/site/miscellaneousdebrisproject/hiking-and-biking/seattle-biking/seattle-bike-trails/west-seattle-trails]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>East End of Bridge Trail</name>
+				<description><![CDATA[<img src="https://plus.google.com/photos/100027300940991143331/albums/5484565431130688033" height="200" width="auto" /><br><br>Look for these signs for more information:]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://plus.google.com/photos/100027300940991143331/albums/5484565431130688033</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.34003800000002,47.572559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Seattle Bridge Trail</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-122.34010500000001,47.572487,0.0 -122.34010500000001,47.572154,0.0 -122.340145,47.571807,0.0 -122.340832,47.571792,0.0 -122.341604,47.571951,0.0 -122.34214099999998,47.571821,0.0 -122.343238,47.571618,0.0 -122.34489000000002,47.571647,0.0 -122.347272,47.571691,0.0 -122.347895,47.571604,0.0 -122.34795899999999,47.571531,0.0 -122.349203,47.571546,0.0 -122.34922500000002,47.571343,0.0 -122.352272,47.571314,0.0 -122.356907,47.571401,0.0 -122.357722,47.571372,0.0 -122.359975,47.571647,0.0 -122.360104,47.571792,0.0 -122.36025400000001,47.571879,0.0 -122.36040400000002,47.572168,0.0 -122.360941,47.572183,0.0 -122.36199200000001,47.572009,0.0 -122.362354,47.571705,0.0 -122.36347299999998,47.571734,0.0 -122.370683,47.571763,0.0 -122.37072600000002,47.571763,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>West End Bridge Trail</name>
+				<description><![CDATA[The Alki Trail begins here]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.370683,47.571749,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -123,7 +123,14 @@ if __name__ == '__main__':
                  'kmz/ne_seattle.kml',
                  'kmz/montlake.kml',
                  'kmz/lake_city.kml',
-                 'kmz/timf_meadowbrook.kml']
+                 'kmz/timf_meadowbrook.kml',
+                 # from http://www.seattleoutdoorsinfo.com/hiking-and-biking/seattle-biking/seattle-bike-trails
+                 'kmz/trails/alki_trail.kml',
+                 'kmz/trails/green_river_interurban.kml',
+                 'kmz/trails/burke_gilman.kml',
+                 'kmz/trails/sodo_trail.kml',
+                 'kmz/trails/west_seattle_bridge.kml',
+                 'kmz/trails/duwamish_trail.kml']
     
     segments_df = kmls_to_segments(kml_files)
 
