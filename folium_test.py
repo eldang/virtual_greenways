@@ -89,6 +89,15 @@ def kmls_to_segments(kml_files):
             
     return segment_df
 
+
+def bike_share_docks(folium_map, csv_file):
+    dock_df = pd.read_csv(csv_file)
+
+    for (_, lattitude, longitude, name) in dock_df[['lat', 'long', 'name']].itertuples():
+        folium_map.simple_marker([lattitude, longitude], popup=name)
+    
+    
+
 def csv_to_map(coords, segment_df, csv_file, output_html):
     edited_segment_df = pd.read_csv(csv_file, "\t")
     edited_segment_df['difficulty'] = edited_segment_df['difficulty_code'].map(lambda d: difficulties[d.lower()])
@@ -97,6 +106,7 @@ def csv_to_map(coords, segment_df, csv_file, output_html):
     
     map_osm = folium.Map(location=coords, tiles='Stamen Toner')
     draw_lines(map_osm, edited_segment_df)
+    bike_share_docks(map_osm, '2015_station_data.csv')
     
     map_osm.create_map(path=output_html)
 
