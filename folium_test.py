@@ -6,12 +6,12 @@ import pandas as pd
 import folium
 
 UNCLASSIFIED = '#808080'
-EASY = '#00FF00'
+ALL_ABILITIES = '#00FF00'
 INTERMEDIATE = '#FFFF00'
 DIFFICULT = '#FF0000'
 
 difficulties = { 'u' : UNCLASSIFIED,
-                 'e' : EASY,
+                 'e' : ALL_ABILITIES,
                  'i' : INTERMEDIATE,
                  'd' : DIFFICULT }
 
@@ -27,6 +27,7 @@ def process_kml(kml):
     layers = the_map.features()
 
     segment_records = { 'name' : [],
+                        'description' : [],
                         'polyline': [],
                         'district' : [],
                         'difficulty' : [],
@@ -39,16 +40,31 @@ def process_kml(kml):
             segments = layer.features()
         except:
             continue
-
+        
         for segment in segments:
             print "Segment: %s" % (segment.name)
             try:
                 polyline = [(g.y, g.x) for g in segment.geometry.geoms]
                 segment_records['name'].append(segment.name)
+                segment_records['description'].append(segment.description)
                 segment_records['polyline'].append(polyline)
                 segment_records['district'].append(layer.name)
                 segment_records['difficulty'].append(UNCLASSIFIED)
                 segment_records['difficulty_code'].append('u')
+#                 if 'Multi use Trail' == segment.description or \
+#                    'Enhanced Street' == segment.description:
+#                     segment_records['difficulty'].append(ALL_ABILITIES)
+#                     segment_records['difficulty_code'].append('e')                    
+#                 elif 'In street major separation' == segment.description:
+#                     segment_records['difficulty'].append(INTERMEDIATE)
+#                     segment_records['difficulty_code'].append('i')
+#                 elif 'Sharrows' == segment.description or \
+#                      'In street minor separation':
+#                     segment_records['difficulty'].append(DIFFICULT)
+#                     segment_records['difficulty_code'].append('d')
+#                 else:
+#                     segment_records['difficulty'].append(UNCLASSIFIED)
+#                     segment_records['difficulty_code'].append('u')
             except:
                 print "no geometry"
                 
@@ -62,17 +78,19 @@ def draw_lines(folium_map, segment_df):
         folium_map.line(polyline, line_color=difficulty, line_weight=5)
 
     
-def segments_to_map(coords, segment_df):
+def segments_to_map(coords, segment_df, included=['e', 'i'], filename='osm.html'):
     map_osm = folium.Map(location=coords,tiles='Stamen Toner')    
     
     # Copy this by hand to greenways_edited.csv, edit in Open Office, fill in the difficulty codes.
     # Then re-run the script.
     segment_df.to_csv('greenways.csv',
-                      columns=['name', 'difficulty_code', 'district', 'difficulty', 'polyline'])
-        
-    draw_lines(map_osm, segment_df)
+                      columns=['name', 'difficulty_code', 'district', 'difficulty', 'description', 'polyline'])
 
-    map_osm.create_map(path='osm.html')
+    plot_df = segment_df.loc[segment_df['difficulty_code'].isin(included)]
+        
+    draw_lines(map_osm, plot_df)
+
+    map_osm.create_map(path=filename)
 
 def kmls_to_segments(kml_files):
     first = True
@@ -119,7 +137,8 @@ if __name__ == '__main__':
     # Copy the .kmz file to kmz/
     # unzip <neighborhood>.kmz; mv doc.kml <neighborhood>.kml
     # eastlake and montlake weren't found on the page
-    kml_files = ['kmz/beacon_hill.kml',
+    kml_files = ['kmz/bmp/bmp_toplayer.kml']
+    kml_files2 = ['kmz/beacon_hill.kml',
                  'kmz/central_seattle.kml',
                  'kmz/west_seattle.kml',
                  'kmz/rainier_valley.kml',
