@@ -1,18 +1,18 @@
 Download and unzip Street Network Database shape file from:
-https://data.seattle.gov/dataset/Street-Network-Database/afip-2mzr
+https://data.seattle.gov/dataset/Street-Network-Database-SND-/nkgj-gr6r
 
 Download and unzip Seattle bicycle facilities data from
 https://data-seattlecitygis.opendata.arcgis.com/datasets?q=bicycle
 
 Details of the fields are inside the zip file in SND_Business_Rules.htm
 and https://www.seattle.gov/Documents/Departments/SDOT/GIS/Planned_Bike_Facilities_OD.pdf
- 
+
 Examples of using Leaflet maps are at: https://github.com/jupyter-widgets/ipyleaflet
 
 Documentation about querying Pandas Dataframes is at: https://pandas.pydata.org/pandas-docs/stable/indexing.html
 
 A Dockerfile (https://www.docker.com/) is available:
-docker build --tag tpfliss/bikemaps2 . 
+docker build --tag tpfliss/bikemaps2 .
 dockder run -it /bin/bash
 docker run -p 8888:8888 -v `pwd`/nb:/nb -v -v `pwd`/Street_Network_Database:/snd -it tpfliss/bikemaps2 /bin/bash
 cd /nb
