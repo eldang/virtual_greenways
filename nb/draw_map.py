@@ -5,7 +5,7 @@ from ipyleaflet import (
 )
 
 
-LINE_WEIGHT=1
+LINE_WEIGHT=2
 OPACITY=1.0
 
 UNCLASSIFIED = '#808080'
@@ -21,7 +21,7 @@ difficulties = { 'u' : UNCLASSIFIED,
 def get_map(coords):
     get_map.folium_map = Map(
         center=coords, zoom=10,
-        basemap=basemaps.Stamen.Watercolor)
+        basemap=basemaps.Stamen.Toner)
 
     return get_map.folium_map
 
