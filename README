@@ -1,8 +1,12 @@
+Save all Shapefiles to a /data/ subdirectory of this one.
+
 Download and unzip Street Network Database shape file from:
 https://data.seattle.gov/dataset/Street-Network-Database-SND-/nkgj-gr6r
 
 Download and unzip Seattle bicycle facilities data from
-https://data-seattlecitygis.opendata.arcgis.com/datasets?q=bicycle
+https://data.seattle.gov/dataset/Existing-Bike-Facilities/pth5-3a9v
+
+[note for future: if we decide to add planned bike facilities, they're at https://data.seattle.gov/dataset/Planned-Bike-Facilities/5wet-822j ]
 
 Details of the fields are inside the zip file in SND_Business_Rules.htm
 and https://www.seattle.gov/Documents/Departments/SDOT/GIS/Planned_Bike_Facilities_OD.pdf
@@ -14,7 +18,7 @@ Documentation about querying Pandas Dataframes is at: https://pandas.pydata.org/
 A Dockerfile (https://www.docker.com/) is available:
 docker build --tag tpfliss/bikemaps2 .
 dockder run -it /bin/bash
-docker run -p 8888:8888 -v `pwd`/nb:/nb -v -v `pwd`/Street_Network_Database:/snd -it tpfliss/bikemaps2 /bin/bash
+docker run -p 8888:8888 -v `pwd`/nb:/nb -v -v `pwd`/data:/snd -it tpfliss/bikemaps2 /bin/bash
 cd /nb
 jupyter notebook --ip=0.0.0.0
 
