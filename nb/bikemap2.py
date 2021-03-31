@@ -15,15 +15,15 @@ import os
 def select_segments(segment_df):
     selected_df = segment_df.query('Existing == "Y"')
     return selected_df
-    
+
 
 def street_network_database_to_folium(segment_df):
     folium_df = pd.DataFrame(
         segment_df.loc[:,[
-            'ORD_STNAME', 'FType_1023', 'points']])
+            'ORD_STNAME', 'F_INTR_ID', 'points']])
     folium_df.rename(columns={
-        'STNAME': 'name',
-        'FType_1023': 'description',
+        'ORD_STNAME': 'name',
+        'F_INTR_ID': 'description',
         'points': 'polyline'
     }, inplace=True)
     folium_df['district'] = 'Current'

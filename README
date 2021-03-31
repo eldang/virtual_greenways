@@ -4,7 +4,7 @@ Download and unzip Street Network Database shape file from:
 https://data.seattle.gov/dataset/Street-Network-Database-SND-/nkgj-gr6r
 
 Download and unzip Seattle bicycle facilities data from
-https://data.seattle.gov/dataset/Existing-Bike-Facilities/pth5-3a9v
+https://data.seattle.gov/dataset/Existing-Bike-Facilities/pth5-3a9v and reproject it to EPSG:4326
 
 [note for future: if we decide to add planned bike facilities, they're at https://data.seattle.gov/dataset/Planned-Bike-Facilities/5wet-822j ]
 

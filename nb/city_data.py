@@ -19,15 +19,15 @@ def flip_points(points):
 def read_shape(filename):
     sf = shapefile.Reader(filename)
     shapes = sf.shapes()
-    
+
     keys = [f[0] for f in sf.fields[1:]] + ['points']
 
-    sf_dict = {idx: dict(zip(keys, row.record + [flip_points(row.shape.points)]))
+    sf_dict = {idx: dict(zip(keys, row.record + [row.shape.points]))
                for idx,row in enumerate(sf.iterShapeRecords())}
 
 
     segment_df = pd.DataFrame.from_dict(sf_dict, orient='index')
- 
+
     return segment_df
 
 
