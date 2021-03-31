@@ -22,7 +22,7 @@ def read_shape(filename):
 
     keys = [f[0] for f in sf.fields[1:]] + ['points']
 
-    sf_dict = {idx: dict(zip(keys, row.record + [row.shape.points]))
+    sf_dict = {idx: dict(zip(keys, row.record + [flip_points(row.shape.points)]))
                for idx,row in enumerate(sf.iterShapeRecords())}
 
 
