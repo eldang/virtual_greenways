@@ -27,3 +27,12 @@ Open the 2018_AAA_Map notebook, change the file names to point at the street net
 and the bike facilities shape file, then run the cells.
 
 
+## Alternatively, loading to PostGIS (this example assumes that we are including planned bike facilities)
+
+1. create a database called `sng`
+2. on that database, issue `CREATE EXTENSION postgis;`
+3. from the command line, load the data:
+	* `shp2pgsql -s2926:4326 data/Street_Network_Database_\(SND\).shp streets | psql -h 127.0.0.1 -d sng -U YOURUSERNAME`
+	* `shp2pgsql -s4326 data/Existing_Bike_Facilities.shp bike | psql -h 127.0.0.1 -d sng -U YOURUSERNAME`
+	* `shp2pgsql -s2926:4326 data/Planned_Bike_Facilities.shp bike_planned | psql -h 127.0.0.1 -d sng -U YOURUSERNAME`
+4. on the database, run `classify_streets.pgsql`
