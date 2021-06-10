@@ -64,7 +64,7 @@ CREATE OR REPLACE VIEW bike_aaa_kml AS
 			'<name>' || street_name || '</name>'
 		ELSE '' END ||
 		'<styleUrl>#AAA</styleUrl>' ||
-		'<ExtendedData><SchemaData schemaUrl="#test">' ||
+		'<ExtendedData><SchemaData schemaUrl="#bike_friendliness">' ||
 		CASE WHEN street_name IS NOT NULL THEN
 			'<SimpleData name="street_name">' || street_name || '</SimpleData>'
 		ELSE '' END ||
@@ -96,7 +96,7 @@ CREATE OR REPLACE VIEW bike_intermediate_kml AS
 			'<name>' || street_name || '</name>'
 		ELSE '' END ||
 		'<styleUrl>#Intermediate</styleUrl>' ||
-		'<ExtendedData><SchemaData schemaUrl="#test">' ||
+		'<ExtendedData><SchemaData schemaUrl="#bike_friendliness">' ||
 		CASE WHEN street_name IS NOT NULL THEN
 			'<SimpleData name="street_name">' || street_name || '</SimpleData>'
 		ELSE '' END ||
@@ -128,7 +128,7 @@ CREATE OR REPLACE VIEW bike_difficult_kml AS
 			'<name>' || street_name || '</name>'
 		ELSE '' END ||
 		'<styleUrl>#Difficult</styleUrl>' ||
-		'<ExtendedData><SchemaData schemaUrl="#test">' ||
+		'<ExtendedData><SchemaData schemaUrl="#bike_friendliness">' ||
 		CASE WHEN street_name IS NOT NULL THEN
 			'<SimpleData name="street_name">' || street_name || '</SimpleData>'
 		ELSE '' END ||
@@ -160,7 +160,7 @@ CREATE OR REPLACE VIEW bike_unclassified_kml AS
 			'<name>' || street_name || '</name>'
 		ELSE '' END ||
 		'<styleUrl>#Unclassified</styleUrl>' ||
-		'<ExtendedData><SchemaData schemaUrl="#test">' ||
+		'<ExtendedData><SchemaData schemaUrl="#bike_friendliness">' ||
 		CASE WHEN street_name IS NOT NULL THEN
 			'<SimpleData name="street_name">' || street_name || '</SimpleData>'
 		ELSE '' END ||
@@ -190,7 +190,7 @@ CREATE OR REPLACE VIEW bike_kml AS
 		'<?xml version="1.0" encoding="utf-8" ?>' ||
 		'<kml xmlns="http://www.opengis.net/kml/2.2">' ||
 		'<Document id="root_doc">' ||
-		'<Schema name="test" id="test">' ||
+		'<Schema name="bike_friendliness" id="bike_friendliness">' ||
 		'<SimpleField name="street_name" type="string"></SimpleField>' ||
 		'<SimpleField name="difficulty" type="string"></SimpleField>' ||
 		'<SimpleField name="status" type="string"></SimpleField>' ||
